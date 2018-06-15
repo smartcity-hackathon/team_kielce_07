@@ -7,6 +7,7 @@ from math import sin, cos, sqrt, atan2, radians
 
 
 def check_distance(coor_x, coor_y, coor_x2, coor_y2):
+    """Sprawdza dystans w km po kordach"""
     R = 6373.0
 
     lat1 = radians(coor_x)
@@ -25,6 +26,7 @@ def check_distance(coor_x, coor_y, coor_x2, coor_y2):
     return round(distance,2)
 
 def enemies(cord_x, cord_y, typ, radius):
+    """Szuka podanego typu miejsc w podanym obrębie na podstawie API Google"""
     location = str(cord_x) + ',' + str(cord_y)
     google_api_key = getattr(settings, "GOOGLE_API_KEY", None)
     api_request = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={location}&radius={radius}&type={typ}&key={google_api_key}"
@@ -47,6 +49,7 @@ def enemies(cord_x, cord_y, typ, radius):
     return data
 
 class Offer(models.Model):
+    """Oferta - działka/lokal inwestycyjny"""
     title = models.CharField(max_length=50)
     owner = models.ForeignKey(User,
                               on_delete=models.CASCADE,
