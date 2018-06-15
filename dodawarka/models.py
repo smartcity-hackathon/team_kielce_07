@@ -36,7 +36,7 @@ class Offer(models.Model):
     centre_distance = models.IntegerField()
     seller = models.CharField(max_length=50)
     rooms = models.IntegerField()
-    inactive = models.BooleanField()
+    inactive = models.BooleanField(default=False)
 
 
     def search(title='', owner=None, coordinates=None, address=None,
