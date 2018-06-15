@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django_extensions',
 ]
 
-google_api_key = 'AIzaSyDa7Na4ZJg4C_b2p4NtW9Ua7OvaiTrQ9bA'
+GOOGLE_API_KEY = 'AIzaSyDa7Na4ZJg4C_b2p4NtW9Ua7OvaiTrQ9bA'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
