@@ -75,37 +75,37 @@ class Offer(models.Model):
 
         if electricity:
             qs = qs.filter(electricity=True)
-        elif electricity = False:
+        elif electricity == False:
             qs = qs.filter(electricity=False)
 
         if gas:
             qs = qs.filter(gas=True)
-        elif gas = False:
+        elif gas == False:
             qs = qs.filter(gas=False)
 
         if water:
             qs = qs.filter(water=True)
-        elif water = False:
+        elif water == False:
             qs = qs.filter(water=False)
 
         if heating:
             qs = qs.filter(heating=True)
-        elif heating = False:
+        elif heating == False:
             qs = qs.filter(heating=False)
 
         if for_sell:
             qs = qs.filter(for_sell=True)
-        elif for_sell = False:
+        elif for_sell == False:
             qs = qs.filter(for_sell=False)
 
         if for_rent:
             qs = qs.filter(for_rent=True)
-        elif for_rent = False:
+        elif for_rent == False:
             qs = qs.filter(for_rent=False)
 
         if disabled_people_friendly:
             qs = qs.filter(disabled_people_friendly=True)
-        elif disabled_people_friendly = False:
+        elif disabled_people_friendly == False:
             qs = qs.filter(disabled_people_friendly=False)
 
         if inactive:
