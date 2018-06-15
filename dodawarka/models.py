@@ -121,14 +121,14 @@ class Offer(models.Model):
     # pricing
     price = models.DecimalField(decimal_places=2, max_digits=20)
     # media
-    electricity = models.BooleanField()
-    gas = models.BooleanField()
-    water = models.BooleanField()
-    heating = models.BooleanField()
-    parking = models.BooleanField()
+    electricity = models.BooleanField(default=False)
+    gas = models.BooleanField(default=False)
+    water = models.BooleanField(default=False)
+    heating = models.BooleanField(default=False)
+    parking = models.BooleanField(default=False)
     #
-    for_sell = models.BooleanField()
-    for_rent = models.BooleanField()
+    for_sell = models.BooleanField(default=False)
+    for_rent = models.BooleanField(default=False)
     # type
     type = models.CharField(max_length=100,
                             choices=(
@@ -137,14 +137,12 @@ class Offer(models.Model):
                                 ('GARAGE', "Garage"),
                                 ('GASTRONOMY', "Gastronomy"),
                             ), )
-    disabled_people_friendly = models.BooleanField()
+    disabled_people_friendly = models.BooleanField(default=False)
     surface = models.IntegerField()
     centre_distance = models.IntegerField()
     seller = models.CharField(max_length=50)
     rooms = models.IntegerField()
     inactive = models.BooleanField(default=False)
-    business_type = models.CharField(default=None,
-                                     max_length=30, null=True)
 
     def __str__(self):
         return self.title
@@ -213,7 +211,7 @@ class Offer(models.Model):
                     x = result.coordinates.split(",")[0]
                     y = result.coordinates.split(",")[1]
                     temp_list.append(result)
-                    temp_list.append(enemies(float(x), float(y), enemy_typ, enemy_radius))
+                    temp_list.append(sorted(enemies(float(x), float(y), enemy_typ, enemy_radius), key=lambda x: x['distance']))
                     results.append(temp_list)
                 return results
             else:
