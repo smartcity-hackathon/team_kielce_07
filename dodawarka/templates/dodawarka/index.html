@@ -1,0 +1,9 @@
+{% if offers %}
+<ul>
+    {% for offer in offers %}
+    <li><a href="/offers/{{ offer.id }}/">{{ offer.title }}</a></li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>Nie ma żadnych ofert do wyświetlenia.</p>
+{% endif %}
