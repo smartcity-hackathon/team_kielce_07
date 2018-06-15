@@ -38,6 +38,8 @@ class Offer(models.Model):
     rooms = models.IntegerField()
     inactive = models.BooleanField(default=False)
 
+    def __str__(self):
+        return self.title
 
     def search(title='', owner=None, coordinates=None, address=None,
                post_code=None, electricity=None, gas=None,
