@@ -4,6 +4,61 @@ from django.conf import settings
 
 import requests
 from math import sin, cos, sqrt, atan2, radians
+'''
+BUSINESSTYPE = (
+('accounting',"Rachunkowość"),
+('airport',"Lotnisko"),
+('amusement_park',"Park rozrywki"),
+('aquarium',"Akwarium"),
+('art_gallery',"Galeria sztuki"),
+('atm',"Bankomat"),
+('bakery',"Piekarnia"),
+('bank',"Bank"),
+('bar',"Bar"),
+('beauty_salon',"Salon urody"),
+('bicycle_store',"Sklep rowerowy"),
+('bowling_alley',"Kręgielnia"),
+('cafe',"Kawiarnia"),
+('car_dealer',"Dealer samochodowy"),
+('car_rental',"Wypożyczalnia samochodów"),
+('car_repair',"Auto-naprawa"),
+('car_wash',"Myjnia samochodowa"),
+('clothing_store',"Sklep z ubraniami"),
+('dentist',"Dentysta"),
+('department_store',"Dom towarowy"),
+('electronics_store',"Sklep z elektroniką"),
+('florist',"Kwiaciarnia"),
+('funeral_home',"Dom pogrzebowy"),
+('gas_station',"Stacja benzynowa"),
+('gym',"Siłownia"),
+('hair_care',"Fryzjer"),
+('hardware_store',"Sklep z narzędziami"),
+('home_goods_store',"Sklep z artykułami domowymi"),
+('insurance_agency',"Agencja ubezpieczeniowa"),
+('laundry',"Pralnia"),
+('lawyer',"Prawnik"),
+('library',"Biblioteka"),
+('liquor_store',"Sklep monopolowy"),
+('locksmith',"Ślusarz"),
+('meal_delivery',"Jedzenie na dowóz"),
+('meal_takeaway',"Jedzenie na wynos"),
+('movie_theater',"Kino"),
+('moving_company',"Firma przewoźnicza"),
+('museum',"Muzeum"),
+('night_club',"Klub nocny"),
+('pet_store',"Sklep zoologiczny"),
+('pharmacy',"Apteka"),
+('physiotherapist',"Fizjoterapeuta"),
+('plumber',"Hydraulik"),
+('post_office',"Poczta"),
+('restaurant',"Restauracja"),
+('shoe_store',"Sklep obuwniczy"),
+('store',"Sklep"),
+('supermarket',"Supermarket"),
+('veterinary_care',"Opieka weterynaryjna"),
+('zoo',"Zoo"),
+)
+'''
 
 
 def check_distance(coor_x, coor_y, coor_x2, coor_y2):
@@ -70,6 +125,7 @@ class Offer(models.Model):
     gas = models.BooleanField()
     water = models.BooleanField()
     heating = models.BooleanField()
+    parking = models.BooleanField()
     #
     for_sell = models.BooleanField()
     for_rent = models.BooleanField()
@@ -80,7 +136,6 @@ class Offer(models.Model):
                                 ('PLACE', "Place"),
                                 ('GARAGE', "Garage"),
                                 ('GASTRONOMY', "Gastronomy"),
-                                ('PARKING', "Parking"),
                             ), )
     disabled_people_friendly = models.BooleanField()
     surface = models.IntegerField()
@@ -88,6 +143,8 @@ class Offer(models.Model):
     seller = models.CharField(max_length=50)
     rooms = models.IntegerField()
     inactive = models.BooleanField(default=False)
+    business_type = models.CharField(default=None,
+                                     max_length=30, null=True)
 
     def __str__(self):
         return self.title
