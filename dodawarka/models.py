@@ -1,5 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
+
+
 class Offer(models.Model):
     title = models.CharField(max_length=50)
     owner = models.ForeignKey(User,
@@ -23,21 +25,23 @@ class Offer(models.Model):
     for_rent = models.BooleanField()
     # type
     type = models.CharField(max_length=100,
-                            choices = (
-                                        ('PARCEL', "Parcel"),
-                                        ('PLACE', "Place"),
-                                        ('GARAGE', "Garage"),
-                                        ('GASTRONOMY', "Gastronomy"),
-                                        ('PARKING', "Parking"),
-                                        ),)
+                            choices=(
+                                ('PARCEL', "Parcel"),
+                                ('PLACE', "Place"),
+                                ('GARAGE', "Garage"),
+                                ('GASTRONOMY', "Gastronomy"),
+                                ('PARKING', "Parking"),
+                            ), )
     disabled_people_friendly = models.BooleanField()
     surface = models.IntegerField()
     centre_distance = models.IntegerField()
     seller = models.CharField(max_length=50)
     rooms = models.IntegerField()
     inactive = models.BooleanField(default=False)
+
     def __str__(self):
         return self.title
+
     def search(title='', owner=None, coordinates=None, address=None,
                post_code=None, electricity=None, gas=None,
                water=None, heating=None, for_sell=None, for_rent=None,
