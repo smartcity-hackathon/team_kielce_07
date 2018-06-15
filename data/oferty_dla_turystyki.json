@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.42567205431572,
+              50.94925533717553
+            ],
+            [
+              20.425094068102787,
+              50.94791055171055
+            ],
+            [
+              20.425491681490062,
+              50.94771625360501
+            ],
+            [
+              20.42596504681925,
+              50.947698779809976
+            ],
+            [
+              20.426552246880778,
+              50.94910191916282
+            ],
+            [
+              20.42567205431572,
+              50.94925533717553
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "aktualnyplanzagospodarowaniaprzestrzennegotn": "Tak",
+        "autostradadrogakrajowakm": "Droga krajowa 74 \u2013 10 km Droga ekspresowa S7 \u2013 13 km ",
+        "bocznicakolejowakm": "Piekosz\u00f3w \u2013 10 km Kielce -18 km ",
+        "budynkiizabudowanianaterenietn": "N",
+        "czybyyprowadzonebadaniageologiczneterenutn": "N",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "dostpnamoc": "Do uzgodnienia",
+        "dostpnaobjto": "-",
+        "dostpnaobjto1": "Do uzgodnienia",
+        "dostpnaobjto11": "Do uzgodnienia",
+        "drogadojazdowadoterenurodzajdrogiijejszeroko": "Droga powiatowa 20 m",
+        "elektrycznonaterenietn": "T",
+        "gaz": null,
+        "gaznaterenietn": "N",
+        "has_attachments": null,
+        "has_photos": "lot-02-obrys-logo(2).jpg,IMG_8792(3).jpg,IMG_8793(2).jpg,lot-01-obrys-logo(2).jpg,IMG_8797.jpg,lot-03-obrys-logo(4).jpg,IMG_8798.jpg,lot-03-obrys-logo(3).jpg,IMG_8799.jpg,02-logo.jpg,IMG_8794(4).jpg,lot-02-obrys-logo(3).jpg",
+        "iminazwiskostanowiskotelefonemailznajomojzykwobcych": "Anna Gad, podinspektor ds. pozyskiwania funduszy, wspierania przedsi\u0119biorczo\u015bci i promocji, 41 3038002 wew. 62, ",
+        "iminazwiskostanowiskotelefonemailznajomojzykwobcych1": "",
+        "istniejceograniczeniageologicznetn": "N",
+        "kanalizacja": null,
+        "kanalizacjanaterenietn": "T",
+        "klasagruntwwrazzpowierzchniha": "V-VI",
+        "kolej": "10",
+        "kolejkm": "Piekosz\u00f3w \u2013 10 km Kielce -18 km ",
+        "ksztatdziaki": "Prostok\u0105t",
+        "maksymalnadostpnapowierzchniawjednymkawakuha": "1,0551",
+        "miastogmina": "Strawczyn",
+        "miastowojewdzkie": null,
+        "moliwopowikszeniaterenukrtkiopis": "Tak",
+        "najbliszelotniskomidzynarodowekm": "Krak\u00f3w Balica - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach",
+        "najbliszemiastowojewdzkiekm": "Kielce - 18 km",
+        "napicie": "20kV",
+        "nazwalokalizacji": "Strawczyn Strawczyn Nied\u017awied\u017c zalew 1,0551 ha",
+        "nazwalokalizacji1": "Strawczyn Nied\u017awied\u017a zalew 1,0551 ha",
+        "obecneuytkowanie": "nieu\u017cytek",
+        "odlegoprzyczaodgranicydziaki": "-",
+        "odlegoprzyczaodgranicyterenu": "-",
+        "odlegoprzyczaodgranicyterenu1": "-",
+        "odlegoprzyczaodgranicyterenu11": "-",
+        "odlegoprzyczaodgranicyterenu111": "-",
+        "oid": "57ecf46236273568bbdad9a2",
+        "orientacyjnacenagruntuplnm2wczajc23vat": "",
+        "panorama": null,
+        "portyrzeczneimorskiewodlegocido200km": "Port rzeczny na Wi\u015ble w Sandomierzu 90 km, Port rzeczny na Wi\u015ble w krakowie - 120 km",
+        "powiat": "Kielecki",
+        "powierzchnia": "1.0551",
+        "poziomwdgruntowychm": "Brak danych",
+        "przeszkodypodziemnetn": "N",
+        "przeszkodywystpujcenapowierzchniterenutn": "N",
+        "przeznaczeniewmiejscowymplaniezagospodarowaniaprzestrzenengo": "UCT \u2013 budynki gospodarcze i gara\u017ce, ziele\u0144 o f. izolacyjnych, infrastruktura techniczna, urz\u0105dzenia i budynki sportu i rekreacji, obiekty infrastruktury technicznej, obiekty budowlane zwi\u0105zane z gospodark\u0105 le\u015bn\u0105, szlaki turystyczne, \u015bcie\u017cki rowerowe, obiekty malej architektury s\u0142u\u017c\u0105ce turystyce ",
+        "public": true,
+        "rednicarury": "-",
+        "rnicapoziomwm": "Teren p\u0142aski",
+        "ryzykowystpieniazalalubobsuniterenutn": "N",
+        "short_name": "Strawczyn Nied\u017awied\u017a zalew 1,0551 ha",
+        "telefonyyn": "T",
+        "type": "57da87a536273575df3f7274",
+        "uwagi": "-",
+        "wacicielwaciciele": "",
+        "wartokaloryczna": "-",
+        "woda": null,
+        "wodanaterenietn": "T",
+        "wojewdztwo": "\u015awi\u0119tokrzyskie",
+        "zanieczyszczeniawdpowierzchniowychigruntowychtn": "N"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

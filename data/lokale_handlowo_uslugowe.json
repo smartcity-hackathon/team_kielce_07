@@ -1,0 +1,501 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.629725593785263,
+              50.87066114698251
+            ],
+            [
+              20.62983012322841,
+              50.870771993494564
+            ],
+            [
+              20.629696933752438,
+              50.8708077969534
+            ],
+            [
+              20.62955906953228,
+              50.87070956837681
+            ],
+            [
+              20.629725593785263,
+              50.87066114698251
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Nie",
+        "cenazam2": "",
+        "city": "Kielce",
+        "czynszzam2": "50",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "evita-kielce@wp.pl",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2095_Fot_Lukasz_Zarzycki.JPG,IMG_2096_Fot_Lukasz_Zarzycki.JPG,IMG_2097_Fot_Lukasz_Zarzycki.JPG,IMG_2098_Fot_Lukasz_Zarzycki.JPG",
+        "imiinazwisko": "Edward Michalski",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "2",
+        "maksymalnapowierzchnia": "250",
+        "maksymalnapowierzchnianakondygnacji": "250",
+        "miejscowo": "Kielce",
+        "minimalnapowierzchnia": "250",
+        "minimalnyokresnajmu": "6 miesi\u0119cy",
+        "monitoring": "Tak",
+        "nasprzeda": "Nie ",
+        "nawynajem": "Tak",
+        "nazwalokalizacji": "Kielce Sienkiewicza 30",
+        "numerkondygnacji": "2",
+        "oid": "5a2690bd362735160cb093f4",
+        "osobakontaktowa": "Edward Michalsk",
+        "panorama": null,
+        "powierzchnia": null,
+        "przeznaczenieofertyhandel": "Tak",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Tak",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "1925",
+        "rokmodernizacji": "2010",
+        "socialrooms": "Tak",
+        "standardbudynku": "Kamienica",
+        "sufitypodwieszane": "Tak",
+        "telefon": "606824158/604782645",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Kielce Sienkiewicza 30",
+        "uytkowaniewieczyste": "Nie",
+        "wiatowd": "Tak",
+        "winda": "Nie",
+        "wykadziny": "Tak"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.633696753635565,
+              50.86938669375657
+            ],
+            [
+              20.633784993457063,
+              50.86948603131912
+            ],
+            [
+              20.63407825047899,
+              50.86938805711812
+            ],
+            [
+              20.633997836005527,
+              50.869285257769235
+            ],
+            [
+              20.63385650318991,
+              50.869334170717856
+            ],
+            [
+              20.633696753635565,
+              50.86938669375657
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Nie",
+        "cenazam2": 0,
+        "city": "Kielce",
+        "czynszzam2": "49",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "evita-kielce@wp.pl",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2080_Fot_Lukasz_Zarzycki(2).JPG,IMG_2081_Fot_Lukasz_Zarzycki(2).JPG,IMG_2082_Fot_Lukasz_Zarzycki.JPG,IMG_2083_Fot_Lukasz_Zarzycki(3).JPG,IMG_2084_Fot_Lukasz_Zarzycki(3).JPG,IMG_2085_Fot_Lukasz_Zarzycki(3).JPG,IMG_2086_Fot_Lukasz_Zarzycki(3).JPG,IMG_2087_Fot_Lukasz_Zarzycki(3).JPG",
+        "imiinazwisko": "Edward Michalski",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "3",
+        "maksymalnapowierzchnia": "45",
+        "maksymalnapowierzchnianakondygnacji": "45",
+        "miejscowo": "Kielce",
+        "minimalnapowierzchnia": "45",
+        "minimalnyokresnajmu": "6 miesi\u0119cy",
+        "monitoring": "Tak",
+        "nasprzeda": "Nie ",
+        "nawynajem": "Tak",
+        "nazwalokalizacji": "Kielce Sienkiewicza 8 (45)",
+        "numerkondygnacji": "3",
+        "oid": "5a269af4362735184ab6902e",
+        "osobakontaktowa": "Ewa Kulik",
+        "panorama": null,
+        "powierzchnia": null,
+        "przeznaczenieofertyhandel": "Tak",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Nie",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "2012",
+        "rokmodernizacji": "",
+        "socialrooms": "Tak",
+        "standardbudynku": "",
+        "sufitypodwieszane": "Nie",
+        "telefon": "667338205/604782645",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Kielce Sienkiewicza 8 (45)",
+        "uytkowaniewieczyste": "Nie",
+        "wiatowd": "Tak",
+        "winda": "Tak",
+        "wykadziny": "Nie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.626488879214225,
+              50.87208655510475
+            ],
+            [
+              20.62625119478577,
+              50.871803235106896
+            ],
+            [
+              20.626722899384873,
+              50.87165585865784
+            ],
+            [
+              20.626953109176412,
+              50.871952691630746
+            ],
+            [
+              20.626488937538518,
+              50.87208823050554
+            ],
+            [
+              20.626488879214225,
+              50.87208655510475
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Tak",
+        "cenazam2": 0,
+        "city": "Kielce",
+        "czynszzam2": "40",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2099_Fot_Lukasz_Zarzycki.JPG,IMG_2100_Fot_Lukasz_Zarzycki.JPG,IMG_2101_Fot_Lukasz_Zarzycki.JPG,IMG_2102_Fot_Lukasz_Zarzycki.JPG,IMG_2103_Fot_Lukasz_Zarzycki.JPG,IMG_2105_Fot_Lukasz_Zarzycki.JPG",
+        "imiinazwisko": "\"SPO\u0141EM\" Powszechna Sp\u00f3\u0142dzielnia Spo\u017cywc\u00f3w",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "3",
+        "maksymalnapowierzchnia": "1000",
+        "maksymalnapowierzchnianakondygnacji": "1000",
+        "miejscowo": "Kielce",
+        "minimalnapowierzchnia": "120",
+        "minimalnyokresnajmu": "1 rok",
+        "monitoring": "Nie",
+        "nasprzeda": "Nie ",
+        "nawynajem": "Tak",
+        "nazwalokalizacji": "Sienkiewicza 44 (T\u0119cza)",
+        "numerkondygnacji": "2",
+        "oid": "5a4cbd363627356b1a307f6b",
+        "osobakontaktowa": "Wies\u0142aw Berka",
+        "panorama": null,
+        "powierzchnia": "1000",
+        "przeznaczenieofertyhandel": "Tak (wyj\u0105tek artyku\u0142y spo\u017cywczo - monopolowe)",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Tak",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "",
+        "rokmodernizacji": "1998",
+        "socialrooms": "Tak",
+        "standardbudynku": "",
+        "sufitypodwieszane": "Tak",
+        "telefon": "41 362 91 17",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Sienkiewicza 44 (T\u0119cza)",
+        "uytkowaniewieczyste": "Nie",
+        "wiatowd": "Tak",
+        "winda": "Tak",
+        "wykadziny": "Nie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.631894592717796,
+              50.87737669402469
+            ],
+            [
+              20.632062959682212,
+              50.87734249149002
+            ],
+            [
+              20.631990845170332,
+              50.87717420245282
+            ],
+            [
+              20.631814768551532,
+              50.8772152175429
+            ],
+            [
+              20.631889120907964,
+              50.87737174190019
+            ],
+            [
+              20.631894417130507,
+              50.87737166784044
+            ],
+            [
+              20.631894592717796,
+              50.87737669402469
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Tak",
+        "cenazam2": 0,
+        "city": "Kielce",
+        "czynszzam2": 0,
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2107_Fot_Lukasz_Zarzycki.JPG",
+        "imiinazwisko": "\"SPO\u0141EM\" Powszechna Sp\u00f3\u0142dzielnia Spo\u017cywc\u00f3w",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "1",
+        "maksymalnapowierzchnia": "203.29",
+        "maksymalnapowierzchnianakondygnacji": "203.29",
+        "miejscowo": "Kielce",
+        "minimalnapowierzchnia": 0,
+        "minimalnyokresnajmu": "",
+        "monitoring": "Nie",
+        "nasprzeda": "Tak",
+        "nawynajem": "Nie",
+        "nazwalokalizacji": "Kielce D\u0105browska 27",
+        "numerkondygnacji": "",
+        "oid": "5a4ccff93627356b57249958",
+        "osobakontaktowa": "Wies\u0142aw Berka",
+        "panorama": null,
+        "powierzchnia": "203,29",
+        "przeznaczenieofertyhandel": "Tak",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Tak",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "",
+        "rokmodernizacji": "2011",
+        "socialrooms": "Tak",
+        "standardbudynku": "",
+        "sufitypodwieszane": "Nie",
+        "telefon": "41 362 91 17",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Kielce D\u0105browska 27",
+        "uytkowaniewieczyste": "Tak",
+        "wiatowd": "Nie",
+        "winda": "Nie",
+        "wykadziny": "Nie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.633696753711384,
+              50.869386693750535
+            ],
+            [
+              20.633997836081445,
+              50.86928525776321
+            ],
+            [
+              20.634078250554932,
+              50.86938805711209
+            ],
+            [
+              20.63378499353291,
+              50.86948603131308
+            ],
+            [
+              20.63373462607271,
+              50.8694293293019
+            ],
+            [
+              20.633696753711384,
+              50.869386693750535
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Nie",
+        "cenazam2": 0,
+        "city": "Kielce",
+        "czynszzam2": 0,
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "evita-kielce@wp.pl",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2078_Fot_Lukasz_Zarzycki.JPG,IMG_2079_Fot_Lukasz_Zarzycki.JPG,IMG_2086_Fot_Lukasz_Zarzycki.JPG,IMG_2087_Fot_Lukasz_Zarzycki.JPG,IMG_2083_Fot_Lukasz_Zarzycki(2).JPG,IMG_2084_Fot_Lukasz_Zarzycki(2).JPG,IMG_2085_Fot_Lukasz_Zarzycki(2).JPG",
+        "imiinazwisko": "Edward Michalski",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "3",
+        "maksymalnapowierzchnia": "16",
+        "maksymalnapowierzchnianakondygnacji": "16",
+        "miejscowo": "",
+        "minimalnapowierzchnia": "16",
+        "minimalnyokresnajmu": "6 miesi\u0119cy",
+        "monitoring": "Tak",
+        "nasprzeda": "Nie ",
+        "nawynajem": "Tak",
+        "nazwalokalizacji": "Kielce Sienkiewicza 8 (16)",
+        "numerkondygnacji": "3",
+        "oid": "5a2e86523627355bdccf70b9",
+        "osobakontaktowa": "Ewa Kulik",
+        "panorama": null,
+        "powierzchnia": null,
+        "przeznaczenieofertyhandel": "Tak",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Nie",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "2012",
+        "rokmodernizacji": "",
+        "socialrooms": "Tak",
+        "standardbudynku": "",
+        "sufitypodwieszane": "Nie",
+        "telefon": "667338205/604782645",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Kielce Sienkiewicza 8 (16)",
+        "uytkowaniewieczyste": "Nie",
+        "wiatowd": "Tak",
+        "winda": "Tak",
+        "wykadziny": "Nie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.63408439028957,
+              50.86981640288276
+            ],
+            [
+              20.63421972579304,
+              50.869747459068584
+            ],
+            [
+              20.6341418994509,
+              50.86964294736004
+            ],
+            [
+              20.634004092221442,
+              50.869716954342664
+            ],
+            [
+              20.634087155153892,
+              50.86981971659723
+            ],
+            [
+              20.63410169361025,
+              50.86978096005534
+            ],
+            [
+              20.63408439028957,
+              50.86981640288276
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "caodobowaochrona": "Nie",
+        "cenazam2": 0,
+        "city": "Kielce",
+        "czynszzam2": "24",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "email": "evita-kielce@wp.pl",
+        "garaewbudynku": "Nie",
+        "has_attachments": null,
+        "has_photos": "IMG_2088_Fot_Lukasz_Zarzycki.JPG,IMG_2089_Fot_Lukasz_Zarzycki.JPG,IMG_2090_Fot_Lukasz_Zarzycki.JPG,IMG_2091_Fot_Lukasz_Zarzycki.JPG,IMG_2092_Fot_Lukasz_Zarzycki.JPG,IMG_2093_Fot_Lukasz_Zarzycki.JPG,IMG_2094_Fot_Lukasz_Zarzycki.JPG",
+        "imiinazwisko": "Edward Michalski",
+        "indywidualnaaranacjaprzestrzeni": "Tak",
+        "internet": "Tak",
+        "klimatyzacja": "Tak",
+        "liczbakondygnacji": "2",
+        "maksymalnapowierzchnia": "275",
+        "maksymalnapowierzchnianakondygnacji": "275",
+        "miejscowo": "Kielce",
+        "minimalnapowierzchnia": "165",
+        "minimalnyokresnajmu": "6 miesi\u0119cy",
+        "monitoring": "Tak",
+        "nasprzeda": "Nie ",
+        "nawynajem": "Tak",
+        "nazwalokalizacji": "Kielce Leonarda 5a (275)",
+        "numerkondygnacji": "2",
+        "oid": "5a4cb4c03627356b57249957",
+        "osobakontaktowa": "Edward Michalski",
+        "panorama": null,
+        "powierzchnia": "275",
+        "przeznaczenieofertyhandel": "Tak",
+        "przeznaczenieofertyinneusugi": "Tak",
+        "przeznaczenieofertyusugigastronomiczne": "Tak",
+        "public": true,
+        "recepcja": "Nie",
+        "rokbudowy": "2012",
+        "rokmodernizacji": "",
+        "socialrooms": "Tak",
+        "standardbudynku": "",
+        "sufitypodwieszane": "Nie",
+        "telefon": "604 782 645",
+        "telefon1": "Tak",
+        "type": "5a156b4d362735587f4735c4",
+        "ulicainumer": "Kielce Leonarda 5a (275)",
+        "uytkowaniewieczyste": "Nie",
+        "wiatowd": "Tak",
+        "winda": "Tak",
+        "wykadziny": "Nie"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

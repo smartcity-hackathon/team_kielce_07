@@ -1,0 +1,299 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.60551863792402,
+              50.67991162578857
+            ],
+            [
+              20.606270100280394,
+              50.68096936335159
+            ],
+            [
+              20.6065669712066,
+              50.6812834263919
+            ],
+            [
+              20.607205066687126,
+              50.681115550208496
+            ],
+            [
+              20.607537696397188,
+              50.681429117629705
+            ],
+            [
+              20.60856284315033,
+              50.681074091182566
+            ],
+            [
+              20.609379679961396,
+              50.68194910343582
+            ],
+            [
+              20.612832751673857,
+              50.68042421453584
+            ],
+            [
+              20.61338926800249,
+              50.68100737141951
+            ],
+            [
+              20.614129911499486,
+              50.680701685001004
+            ],
+            [
+              20.617988636184194,
+              50.68473874598111
+            ],
+            [
+              20.619358454361798,
+              50.68608324337228
+            ],
+            [
+              20.62017088458339,
+              50.68682188946552
+            ],
+            [
+              20.622325330679143,
+              50.68601925449889
+            ],
+            [
+              20.625496950079725,
+              50.684634260846245
+            ],
+            [
+              20.625678656109177,
+              50.6845525627952
+            ],
+            [
+              20.63027220048604,
+              50.68411304856059
+            ],
+            [
+              20.630986478441372,
+              50.68408032876129
+            ],
+            [
+              20.632374497230252,
+              50.68696974861437
+            ],
+            [
+              20.641647165560915,
+              50.68513508939802
+            ],
+            [
+              20.64122375492048,
+              50.68427748624697
+            ],
+            [
+              20.646317374282464,
+              50.68366022929101
+            ],
+            [
+              20.64798973150578,
+              50.68238669128253
+            ],
+            [
+              20.650067697152593,
+              50.67840305378909
+            ],
+            [
+              20.650441010598705,
+              50.67782962996014
+            ],
+            [
+              20.651150393279096,
+              50.677660502368134
+            ],
+            [
+              20.651057928852715,
+              50.67502565492956
+            ],
+            [
+              20.65120477438069,
+              50.67411455413286
+            ],
+            [
+              20.651661356931427,
+              50.672858180567324
+            ],
+            [
+              20.652231526168638,
+              50.671781998480895
+            ],
+            [
+              20.647082062289815,
+              50.67178672231692
+            ],
+            [
+              20.64692560318214,
+              50.67242524778317
+            ],
+            [
+              20.64428132976112,
+              50.672485315744794
+            ],
+            [
+              20.644473568732813,
+              50.67184628907
+            ],
+            [
+              20.641901603553038,
+              50.67192800817938
+            ],
+            [
+              20.641978639255655,
+              50.67208600113876
+            ],
+            [
+              20.641909529016328,
+              50.67215515141789
+            ],
+            [
+              20.638382731074636,
+              50.67254567397069
+            ],
+            [
+              20.630569185656665,
+              50.672041682756046
+            ],
+            [
+              20.629719882437577,
+              50.67023552654942
+            ],
+            [
+              20.628936686491475,
+              50.67033737945277
+            ],
+            [
+              20.62661575457944,
+              50.670437977291456
+            ],
+            [
+              20.623873732647027,
+              50.67077165231287
+            ],
+            [
+              20.62077892859867,
+              50.67124652265522
+            ],
+            [
+              20.615889834283234,
+              50.67154167670167
+            ],
+            [
+              20.61302174705523,
+              50.671331433348996
+            ],
+            [
+              20.61115373148155,
+              50.67108457101247
+            ],
+            [
+              20.609152081045895,
+              50.671112229336266
+            ],
+            [
+              20.594349025078387,
+              50.67011126053867
+            ],
+            [
+              20.593669902497833,
+              50.670120550423135
+            ],
+            [
+              20.593292544899693,
+              50.673761772229696
+            ],
+            [
+              20.593399419847643,
+              50.674805678224914
+            ],
+            [
+              20.593606618955736,
+              50.6756436837127
+            ],
+            [
+              20.593768844402998,
+              50.676209599409276
+            ],
+            [
+              20.59490068559214,
+              50.68005742637201
+            ],
+            [
+              20.59481961471815,
+              50.68083119802003
+            ],
+            [
+              20.594583983875694,
+              50.68126620416293
+            ],
+            [
+              20.593917784327047,
+              50.68166164890367
+            ],
+            [
+              20.594040434788184,
+              50.682114478314475
+            ],
+            [
+              20.600353912687048,
+              50.68159616734731
+            ],
+            [
+              20.60551863792402,
+              50.67991162578857
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "advance": "Opracowana dokumentacja obejmuje:\npakiet dokumentacji przedinwestycyjnej ,  studialno \u2013 koncepcyjnej, w tym  m.in.: koncepcje skomunikowania lotniska, analizy  rynku, analizy ekonomiczne;\nszereg opracowa\u0144 specjalistycznych,  w tym m. in.: dokumentacj\u0119 geologiczno-in\u017cyniersk\u0105, hydrologiczn\u0105,operaty  glebowe, meteorologiczne;  \nmap\u0119 z naniesionymi ograniczeniami wysoko\u015bci zabudowy  na lotnisku i w jego  otoczeniu z uwzgl\u0119dnieniem  istniej\u0105cych przeszk\u00f3d lotniczych;\nprofile p\u00f3l wznoszenia i podej\u015bcia;\nplan organizacji ruchu lotniczego dla planowanego lotniska; \nraport oddzia\u0142ywania na \u015brodowisko;\nkoncepcj\u0119 architektoniczno - budowlan\u0105  i funkcjonalno - przestrzenn\u0105 RPL Kielce. \nWi\u0119kszo\u015b\u0107 w\\w  dokumentacji wymaga jednak aktualizacji \nPonadto:\n\u2022\tZako\u0144czono przebudow\u0119 linii energetycznej  SN-15 kV zlokalizowanej w rejonie lotniska;\n\u2022\tUchwalono miejscowe plany zagospodarowania przestrzennego  dla rejonu lotniska.  Plany zagospodarowania przestrzennego opracowywane na potrzeby Projektu, obejmuj\u0105 \u0142\u0105cznie obszar oko\u0142o 1.990 ha, w tym teren samego lotniska oko\u0142o 445 ha\n\u2022\tWykupiono oko\u0142o 85% potrzebnych grunt\u00f3w;\n",
+        "budynki": "Nie",
+        "city": "Kielecki",
+        "commune": "Morawica i Chmielnik",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "description": "Planowany Port Lotniczy Kielce ma za zadanie uzupe\u0142ni\u0107 przewidywan\u0105 luk\u0119 w siatce port\u00f3w lotniczych w Polsce oraz  stworzy\u0107 wymierne korzy\u015bci dla rozwoju regionu \u015bwi\u0119tokrzyskiego. Zapewni lepsz\u0105 mobilno\u015b\u0107 mieszka\u0144c\u00f3w, zwi\u0119kszy aktywno\u015b\u0107 gospodarcz\u0105 regionu, poprawi dost\u0119pno\u015b\u0107 komunikacyjn\u0105. Port lotniczy ma du\u017ce znaczenie dla dalszego rozwoju centrum wystawienniczego Targi Kielce S.A., drugiego co do wielko\u015bci o\u015brodka wystawienniczego w kraju oraz licznych uzdrowisk i miejscowo\u015bci turystycznych.",
+        "district": "Kielecki",
+        "droga": "Droga krajowa nr 73. Szeroko\u015b\u0107 jezdni asfaltowej \u2013 7m oraz droga lokalna. ",
+        "econom_eff": "Wykonane analizy ekonomiczne, w tym: studium wykonalno\u015bci, ocena rynku z prognoz\u0105 ruchu, analiza koszt\u00f3w i korzy\u015bci,  analiza opcji strategicznych potwierdzaj\u0105 du\u017cy potencja\u0142 lotniczy przysz\u0142ego lotniska w Kielcach, zar\u00f3wno wed\u0142ug optymistycznego jak i pesymistycznego scenariusza. Jednak dokumenty te opracowane zosta\u0142y  w  latach 2007-2008 i wymagaj\u0105 aktualizacji. \nO rentowno\u015bci projektu w du\u017cej mierze decyduje  mo\u017cliwo\u015b\u0107 lokalizacji terminala cargo, kt\u00f3ry z uwagi na po\u0142o\u017cenie lotniska, z dala od du\u017cych aglomeracji i stref ochronnych, mo\u017ce operowa\u0107 ca\u0142\u0105 dob\u0119.\nEfektywno\u015b\u0107 projektu uzale\u017cniona jest te\u017c od wykorzystania  strefy przemys\u0142owej wok\u00f3\u0142 lotniska. Program stworzenia takiej strefy i jej zagospodarowania  nie zosta\u0142 jeszcze opracowany.",
+        "elektr": "Tak",
+        "exp_time": "Oko\u0142o 10 lat ",
+        "exp_type": "Od inwestora strategicznego oczekuje si\u0119:\nudzia\u0142u kapita\u0142owego w zamkni\u0119ciu finansowania projektu;\nudzia\u0142u w budowaniu programu ekonomicznego wykorzystania strefy oko\u0142o lotniskowej.",
+        "gaz": "Nie - faza projektowania.",
+        "geoportal_link": null,
+        "has_attachments": null,
+        "has_photos": "Terminal_Passengers_15.jpg,lot-02-internet34.jpg,Morawica-Obice-lotnisko-zdjecie-lotnicze-23.JPG,01-internet785.jpg,02-internet206.jpg,03-internet53.jpg,lot-01-internet75.jpg,lot-02-internet877.jpg,lot-03-internet68.jpg,lot-01-internet73.jpg,panorama-internet08.jpg",
+        "kanaliz": "Nie - faza projektowania.",
+        "kolejnosc": 1,
+        "miast_woj": "Kielce 22 km",
+        "mozl_pow": "N/d",
+        "name": "Port Lotniczy w Kielcach",
+        "oid": "547b76653627353e6505ee41",
+        "panorama": "panoramy-sferyczne67.swf",
+        "plan_prz": "Tak",
+        "pos_exp": "Tak, przez wykup s\u0105siednich teren\u00f3w",
+        "powierzchnia": "446,84 ha \u2013 powierzchnia lotniska; 95 ha \u2013 tereny inwestycyjne wok\u00f3\u0142 lotniska",
+        "province": "\u015awi\u0119tokrzyskie",
+        "pub_cont": "Wi\u0119kszo\u015b\u0107 nak\u0142ad\u00f3w na prace przygotowawcze ponios\u0142a dotychczas Gmina  Kielce. By\u0142y to nak\u0142ady na przygotowanie analiz i dokumentacji technicznej, nak\u0142ady na wykupy grunt\u00f3w niezb\u0119dnych do realizacji zadania, a tak\u017ce koszt powo\u0142ania i funkcjonowania Sp\u00f3\u0142ki Akcyjnej Port Lotniczy Kielce.  Zak\u0142ada si\u0119,  \u017ce miasto i region ponios\u0105 dalsze koszty prac przygotowawczych projektu.",
+        "public": true,
+        "pzp": "KL \u2013 Tereny lotniska;\nUCL - Tereny us\u0142ug zwi\u0105zanych z Regionalnym Portem Lotniczym Kielce;\nUCL1 \u2013 Tereny rozmieszczenia obiekt\u00f3w handlowych o powierzchni sprzeda\u017cy powy\u017cej 2 000 m2;\nUKS \u2013 Tereny us\u0142ug zwi\u0105zanych z obs\u0142ug\u0105 transportu;\nP \u2013 tereny obiekt\u00f3w produkcyjnych, sk\u0142ad\u00f3w, magazyn\u00f3w i us\u0142ug technicznych;",
+        "sector": "Lotnictwo cywilne",
+        "short_name": "Port Lotniczy w Kielcach",
+        "street": "Obice i Grabowiec",
+        "telefon": "Nie - faza projektowania.\n\n",
+        "type": "547b76653627353e6505ee3c",
+        "value": "Minimalny koszt uruchomienia podstawowej infrastruktury umo\u017cliwiaj\u0105cej rozpocz\u0119cie operowania portu lotniczego wynosi oko\u0142o 180 mln \u20ac. Ca\u0142kowity koszt zale\u017ce\u0107 b\u0119dzie od zakresu i standard\u00f3w wybranych przez finalnego u\u017cytkownika \u2013 inwestora strategicznego. Projekt jest bowiem przygotowywany tak, aby zapewni\u0107 mu tak\u0105 mo\u017cliwo\u015b\u0107.",
+        "woda": "Tak. Obecnie istnieje na terenie przewidzianym pod budow\u0119 lotniska sie\u0107 wodoci\u0105gowa. \nLotnisko zaopatrywane b\u0119dzie w wod\u0119 z w\u0142asnego uj\u0119cia wody podziemnej sk\u0142adaj\u0105cego si\u0119 z dw\u00f3ch studni wierconych.\nStudnie s\u0105 ju\u017c odwiercone.",
+        "zip": "-"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,2310 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.63059667024182,
+              50.87388377461365
+            ],
+            [
+              20.63070080401213,
+              50.87417488331575
+            ],
+            [
+              20.630996219960632,
+              50.874134230490895
+            ],
+            [
+              20.63099794366651,
+              50.87414509951491
+            ],
+            [
+              20.631186109943016,
+              50.87411926456398
+            ],
+            [
+              20.631120031752342,
+              50.8739330114377
+            ],
+            [
+              20.630943929472867,
+              50.87395868183842
+            ],
+            [
+              20.63090460909968,
+              50.87384577755008
+            ],
+            [
+              20.63059667024182,
+              50.87388377461365
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "",
+        "air_cond": "Tak - na indywidualne \u017cyczenie klienta",
+        "atm": "Nie",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "W centrum",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "500",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "Na sprzeda\u017c; wynajem",
+        "fitted_carp": "Nie",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107010",
+        "has_attachments": null,
+        "has_photos": "Becher-naziemne3.jpg,01-internet670.jpg,lot-01-internet31.jpg,03-internet28.jpg,lot-02-internet40.jpg,02-internet3.jpg,lot-03-internet96.jpg,panorama-internet67.jpg",
+        "ind_arr": "Na \u017cyczenie klienta",
+        "internet": "Tak",
+        "kolejnosc": 2,
+        "lift": "Tak",
+        "max_space": "500 m2",
+        "max_space_storey": "170 m2",
+        "miejscowo": "",
+        "min_period": "2 lata",
+        "min_space": "73,02 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "5",
+        "o_contact": "Katarzyna Kwietniewska, 664-769-777, biuro@becher.pl ",
+        "o_name": "Becher",
+        "oid": "547b76653627353e6505eeec",
+        "panorama": "becher-panorama-sferyczna_out.swf",
+        "park": "Nie",
+        "price": "4 600 PLN/net/m2",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Nie",
+        "rent": "28 PLN/net/m2",
+        "restaurant": "Tak",
+        "security": "Nie",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Al. IX Wiek\u00f3w 500 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Al. IX Wiek\u00f3w Kielc 6",
+        "sus_ce": "Nie",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek handlowo-biurowo-us\u0142ugowy",
+        "wiatowd": "",
+        "year_cons": "2010",
+        "year_mod": "Nie dotyczy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.64893489155078,
+              50.890130411794615
+            ],
+            [
+              20.648742250341886,
+              50.89017442028271
+            ],
+            [
+              20.648816318019055,
+              50.89029621119038
+            ],
+            [
+              20.648918066461434,
+              50.8902780030339
+            ],
+            [
+              20.648955935362878,
+              50.89033924053523
+            ],
+            [
+              20.648959075879006,
+              50.89034128619269
+            ],
+            [
+              20.64907210223088,
+              50.890319975503154
+            ],
+            [
+              20.649112758640882,
+              50.89036117001725
+            ],
+            [
+              20.649254232429257,
+              50.890322912616966
+            ],
+            [
+              20.64922516243361,
+              50.89025649655731
+            ],
+            [
+              20.649344770117814,
+              50.890230166404805
+            ],
+            [
+              20.649279247251695,
+              50.89010786694142
+            ],
+            [
+              20.6490906820761,
+              50.89015195063924
+            ],
+            [
+              20.6491079402456,
+              50.890178543309965
+            ],
+            [
+              20.64898272631009,
+              50.890208048950704
+            ],
+            [
+              20.64893977589088,
+              50.890135627328725
+            ],
+            [
+              20.64893489155078,
+              50.890130411794615
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Lokalizacja budynku przy jednej z g\u0142\u00f3wnych arterii Kielc. Bardzo dobrze wyeksponowana i rozpoznawalna elewacja budynku. Wygodny parking (w tym dla rower\u00f3w) z wydzielonymi miejscami dla go\u015bci, na kt\u00f3ry mo\u017cna wjecha\u0107 bezpo\u015brednio z g\u0142\u00f3wnej ulicy. Mo\u017cliwo\u015bci swobodnej aran\u017cacji wn\u0119trz. Ogr\u00f3d \u2013 idealne miejsce na przerw\u0119 czy spotkania z kontrahentami w mniej formalnej atmosferze i wiele innych zalet obiektu. http://biurakielce.pl/",
+        "air_cond": "Tak",
+        "atm": "W pobli\u017cu",
+        "bank": "W pobli\u017cu",
+        "bar": "W pobli\u017cu",
+        "cafe": "W pobli\u017cu",
+        "cakowitapowierzchniadziaki": "2244 m2",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "3 km",
+        "economic": "Nie",
+        "email": "office@ekokaloria.pl,",
+        "filtr_park": "N",
+        "filtr_pow": "630",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "W zale\u017cno\u015bci od potrzeb najemcy",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2108190",
+        "has_attachments": "OFERTA_WYNAJMU_POWIERZCHNI.pdf@OFERTA_WYNAJMU_POWIERZCHNI.pdf",
+        "has_photos": "1.JPG,2.jpg,3.jpg,4.jpg,5.JPG,6.JPG,7.jpg,8.JPG,lot-02-obrys-logo(4).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "16",
+        "lift": "Tak",
+        "max_space": "1 200 m2",
+        "max_space_storey": "630 m2",
+        "miejscowo": "",
+        "min_period": "3 lata",
+        "min_space": "50 m2",
+        "monitoring": "Tak",
+        "newsagent": "W pobli\u017cu",
+        "num_stor": "4",
+        "o_contact": "Ma\u0142gorzata Janyst,  ",
+        "o_name": "Ekokaloria, nr dzia\u0142ki 309 obr\u0119b 0011",
+        "oid": "547b76653627353e6505eeeb",
+        "panorama": null,
+        "park": "Nie",
+        "price": "Nie dotyczy",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "26-50 PLN netto ",
+        "restaurant": "W pobli\u017cu",
+        "security": "Tak",
+        "services": "W pobli\u017cu ",
+        "shops": "W pobli\u017cu",
+        "short_name": "Kielce Warszawska 50 - 1200 m kw biura ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Warszawska 158",
+        "sus_ce": "Tak",
+        "telefon": "+48 722227008, ",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek biurowy ",
+        "wiatowd": "",
+        "year_cons": "2015",
+        "year_mod": "Nie dotyczy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.65389319215928,
+              50.88046287487486
+            ],
+            [
+              20.653628621021628,
+              50.88030709658161
+            ],
+            [
+              20.65385228457896,
+              50.88016891561296
+            ],
+            [
+              20.653619825169123,
+              50.88004864259872
+            ],
+            [
+              20.652771145972892,
+              50.88025354192748
+            ],
+            [
+              20.65202077109351,
+              50.88072659932631
+            ],
+            [
+              20.652793882970304,
+              50.881202074798004
+            ],
+            [
+              20.65338722668328,
+              50.88081252866093
+            ],
+            [
+              20.65389319215928,
+              50.88046287487486
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Inwestycja jest obecnie w fazie planowania. Planowana nieruchomo\u015b\u0107 b\u0119dzie nale\u017ce\u0107 do grupy najnowocze\u015bniejszych budynk\u00f3w klasy A w Polsce. Istnieje mo\u017cliwo\u015b\u0107 wzniesienia obok budynku mieszkalnego. Inwestycja zosta\u0142a zaprojektowana pod k\u0105tem \u015bwiadczenia us\u0142ug BPO, jest usytuowana w pobli\u017cu Uniwesytetu Jana Kochanowskiego i Politechniki \u015awi\u0119tokrzyskiej (1 km) oraz w s\u0105siedztwie Galerii Handlowej Echo, jednej z najwi\u0119kszych w Polsce. Dost\u0119pny jest hotel oraz centrum konferencyjne (***). City Core II b\u0119dzie posiada\u0107 dogodny dojazd (wjazd bezpo\u015brednio z drogi krajowej) oraz bezpo\u015bredni wyjazd na Warszaw\u0119, Krak\u00f3w, Tarn\u00f3w, \u0141\u00f3d\u017a and Lublin (unikaj\u0105c wjazdu do centrum). Przeznaczony do d\u0142ugofalowej komercjalizacji pod k\u0105tem firm z sektora BPO. Istnieje mo\u017cliwo\u015b\u0107 zakupu poszczeg\u00f3lnych ofert.",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "3 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": 1500,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107051",
+        "has_attachments": null,
+        "has_photos": "exbud-planowane1.jpg,02-internet14.jpg,03-internet677.jpg,01-internet32.jpg,lot-02-internet78.jpg,exbud-planowane28.jpg,exbud-planowane31.jpg,panorama-internet19.jpg,exbud-planowane22.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "4",
+        "lift": "Tak",
+        "max_space": "6000 m2 (w ka\u017cdym z 6 planowanych budynk\u00f3w)",
+        "max_space_storey": "500 m2",
+        "miejscowo": "",
+        "min_period": "6 miesi\u0119cy",
+        "min_space": "50 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "6-7",
+        "o_contact": "Dariusz Durlej, Tel. + 48 41 332 62 78 kom. 502 746 499 , dariusz.durlej@kongresowy.pl",
+        "o_name": "City Core",
+        "oid": "547b76653627353e6505eeed",
+        "panorama": "Exbud-panorama-sferyczna_out7.swf",
+        "park": "Nie",
+        "price": "Do negocjacji",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "68 PLN/m2 ",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Al. Solidarno\u015bci 36 000 m kw biuro (w planach)",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Al. Solidarno\u015bci 34",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Wysoko\u015bciowiec",
+        "wiatowd": "",
+        "year_cons": "2015",
+        "year_mod": "2005-2008"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.63298904079502,
+              50.87556497220447
+            ],
+            [
+              20.63336040351277,
+              50.875505280311906
+            ],
+            [
+              20.633217067233222,
+              50.87514129239073
+            ],
+            [
+              20.633177683187963,
+              50.87514637310817
+            ],
+            [
+              20.63303177758089,
+              50.87515451788736
+            ],
+            [
+              20.63295649339957,
+              50.87513282322056
+            ],
+            [
+              20.632939107969847,
+              50.87515772893326
+            ],
+            [
+              20.632974906620532,
+              50.875252770803584
+            ],
+            [
+              20.632883971938337,
+              50.875267219128766
+            ],
+            [
+              20.632951369806054,
+              50.87543973118556
+            ],
+            [
+              20.632938858486554,
+              50.87544223095433
+            ],
+            [
+              20.63298904079502,
+              50.87556497220447
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "-",
+        "air_cond": "Tak - mo\u017cliwo\u015b\u0107 wykonania",
+        "atm": "Tak",
+        "bank": "W pobli\u017cu",
+        "bar": "W pobli\u017cu",
+        "cafe": "W pobli\u017cu",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "W centrum",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "400",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "Na sprzeda\u017c; wynajem",
+        "fitted_carp": "Tak - posadzki z p\u0142ytek lub wyk\u0142adzin w zale\u017cno\u015bci od oczekiwa\u0144 klienta",
+        "garages": "Tak podziemne i naziemne",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107805",
+        "has_attachments": null,
+        "has_photos": "Apolloplast-logo38.jpg,lot-02-internet51.jpg,02-internet15.jpg,03-internet83.jpg,panorama-internet95.jpg,lot-01-internet41.jpg,lot-03-internet56.jpg,01-internet48.jpg,02-internet787.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "15",
+        "lift": "Tak",
+        "max_space": "160 m2",
+        "max_space_storey": "Parter 166,28 m2; I p. 79,80 m2;  II p. 0m2; /III p.  74,88 m2; IV p. 81,87 m2; V p. 0 m2",
+        "miejscowo": "",
+        "min_period": "5 lat",
+        "min_space": "52,76 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "7",
+        "o_contact": "Jacek Brzozowski, +48 602 327 204, jacek@apolloplast.com.pl, ",
+        "o_name": "Apolloplast nr dzia\u0142ek  953/4; 954; 955/1; 955/2",
+        "oid": "547b76653627353e6505eeef",
+        "panorama": "apolloplast_out.swf",
+        "park": "Nie",
+        "price": "Do negocjacji ",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak - portiernia",
+        "rent": "10 euro",
+        "restaurant": "W pobli\u017cu",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Warszawska 400 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Warszawska 21",
+        "sus_ce": "Nie",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce ",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Biurowo-us\u0142ugowy",
+        "wiatowd": "",
+        "year_cons": "2012",
+        "year_mod": "Nie dotyczy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.65431657084979,
+              50.88097671926381
+            ],
+            [
+              20.654226876287474,
+              50.881038686880565
+            ],
+            [
+              20.654200338820903,
+              50.881021965515515
+            ],
+            [
+              20.654140935024657,
+              50.881023491412996
+            ],
+            [
+              20.654044885209235,
+              50.88096706315337
+            ],
+            [
+              20.65398382440439,
+              50.88096758660497
+            ],
+            [
+              20.65392734852472,
+              50.88100600154074
+            ],
+            [
+              20.653863034036995,
+              50.88100622908959
+            ],
+            [
+              20.653681925767366,
+              50.881127452305336
+            ],
+            [
+              20.653683506710603,
+              50.88115683763609
+            ],
+            [
+              20.65361264913224,
+              50.88120126935919
+            ],
+            [
+              20.653614077698872,
+              50.881287420610754
+            ],
+            [
+              20.653643917163706,
+              50.88130580507221
+            ],
+            [
+              20.653648248525457,
+              50.881382340580714
+            ],
+            [
+              20.653752559949396,
+              50.8814430974489
+            ],
+            [
+              20.65386603865858,
+              50.88144217324493
+            ],
+            [
+              20.653883467836714,
+              50.88143064188439
+            ],
+            [
+              20.653940913526913,
+              50.88146539061034
+            ],
+            [
+              20.653924576973157,
+              50.881477248445314
+            ],
+            [
+              20.653925054373694,
+              50.88155178685959
+            ],
+            [
+              20.65398689495537,
+              50.881588524981034
+            ],
+            [
+              20.653984517123398,
+              50.88162822492312
+            ],
+            [
+              20.65408562427309,
+              50.881690052759254
+            ],
+            [
+              20.654208743553585,
+              50.88168659793294
+            ],
+            [
+              20.654218177750295,
+              50.881678257399926
+            ],
+            [
+              20.654286106885035,
+              50.88171901246632
+            ],
+            [
+              20.654400162823894,
+              50.88171910541485
+            ],
+            [
+              20.654634925115133,
+              50.88155608635407
+            ],
+            [
+              20.654636871104888,
+              50.88151947007196
+            ],
+            [
+              20.65471979088015,
+              50.88146460818797
+            ],
+            [
+              20.65481749964429,
+              50.88152203822421
+            ],
+            [
+              20.654887132657063,
+              50.88151934108204
+            ],
+            [
+              20.65493941948363,
+              50.88148474654204
+            ],
+            [
+              20.655033899105128,
+              50.88154256414005
+            ],
+            [
+              20.655003782471383,
+              50.88156214045684
+            ],
+            [
+              20.6550056549283,
+              50.88159972844725
+            ],
+            [
+              20.655108481025,
+              50.88166426662992
+            ],
+            [
+              20.655168353181686,
+              50.88166068189859
+            ],
+            [
+              20.6553468794066,
+              50.881542912505225
+            ],
+            [
+              20.65547634785253,
+              50.881459349882164
+            ],
+            [
+              20.655474567057198,
+              50.881409108430674
+            ],
+            [
+              20.65538463939445,
+              50.88135772367798
+            ],
+            [
+              20.655310217012506,
+              50.8813625407529
+            ],
+            [
+              20.65506028233769,
+              50.881524408562925
+            ],
+            [
+              20.654966367201897,
+              50.88146726688198
+            ],
+            [
+              20.654990133897712,
+              50.881451542078224
+            ],
+            [
+              20.654979122830365,
+              50.88144588506981
+            ],
+            [
+              20.655125911511693,
+              50.8813477152989
+            ],
+            [
+              20.65513046150639,
+              50.88130832647128
+            ],
+            [
+              20.65493769720825,
+              50.88119206141232
+            ],
+            [
+              20.654872890664926,
+              50.88119366429617
+            ],
+            [
+              20.654732427597665,
+              50.88128729870544
+            ],
+            [
+              20.654678307850947,
+              50.88125489686255
+            ],
+            [
+              20.654862405894328,
+              50.88114183650736
+            ],
+            [
+              20.654678936250576,
+              50.881028516779075
+            ],
+            [
+              20.654704335696156,
+              50.88101311083216
+            ],
+            [
+              20.654703410831555,
+              50.88097174794445
+            ],
+            [
+              20.65439287553109,
+              50.88078089682812
+            ],
+            [
+              20.6543225943812,
+              50.88078052531457
+            ],
+            [
+              20.654199608727208,
+              50.88086399477581
+            ],
+            [
+              20.65419994446934,
+              50.88090399821502
+            ],
+            [
+              20.65431657084979,
+              50.88097671926381
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Budynek jest przeznaczony na prowadzenie dzia\u0142alno\u015bci gospodarczej. W przesz\u0142o\u015bci mie\u015bci\u0142a si\u0119 tu siedziba firmy Exbud S.A. (obecnie Skanska). Usytuowany jest w pobli\u017cu Uniwersytetu Jana Kochanowskiego i Politechniki \u015awi\u0119tokrzyskiej (odleg\u0142o\u015b\u0107 poni\u017cej 1 km) oraz w bezpo\u015brednim s\u0105siedztwie jednej z najwi\u0119kszych w Polsce galerii handlowej. Jest tu dogodny dojazd, hotel oraz sala konferencyjna. Zainstalowanie klimatyzacji na \u017cyczenie najemcy pozwoli spe\u0142ni\u0107 kryteria budynku klasy A. Istnieje mo\u017cliwo\u015b\u0107 wy\u0142\u0105czenia cz\u0119\u015bci lub ca\u0142o\u015bci kondygnacji na \u017cyczenie najemcy. Inne rozwi\u0105zania funkcjonalne s\u0105 mo\u017cliwe w zale\u017cno\u015bci od konkretnego projektu.",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "3 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1800",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Parking naziemny",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107051",
+        "has_attachments": null,
+        "has_photos": "panorama-internet54.jpg,lot-01-internet33.jpg,02-internet84.jpg,lot-03-internet34.jpg,01-internet55.jpg,02-internet94.jpg,Exbud1(2).jpg,Exbud3(3).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "3",
+        "lift": "Tak",
+        "max_space": "1 800 m2",
+        "max_space_storey": "587 m2",
+        "miejscowo": "",
+        "min_period": "3 lata",
+        "min_space": "18 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "12",
+        "o_contact": "Dariusz Durlej, Tel. + 48 41 332 62 78 kom. 502 746 499 , dariusz.durlej@kongresowy.pl",
+        "o_name": "City Core",
+        "oid": "547b76653627353e6505eef0",
+        "panorama": "Exbud-panorama-sferyczna_out.swf",
+        "park": "Nie",
+        "price": "Nie dotyczy",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "42 PLN/m2",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Al. Solidarno\u015bci 1 800 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Al. Solidarno\u015bci 34",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Wysoko\u015bciowiec",
+        "wiatowd": "",
+        "year_cons": "1991",
+        "year_mod": "2005-2008"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.630507477110125,
+              50.87397772888574
+            ],
+            [
+              20.629983960631737,
+              50.87405675927073
+            ],
+            [
+              20.629978926369848,
+              50.87403139350182
+            ],
+            [
+              20.62970598824636,
+              50.874063647592145
+            ],
+            [
+              20.62981132493305,
+              50.874247885883406
+            ],
+            [
+              20.629885255579044,
+              50.874263306904524
+            ],
+            [
+              20.630454726637506,
+              50.874202665294696
+            ],
+            [
+              20.630454072603527,
+              50.874126520800864
+            ],
+            [
+              20.630551726014094,
+              50.87411147721136
+            ],
+            [
+              20.630507477110125,
+              50.87397772888574
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Jako udogodnienie, dost\u0119pnych  jest tak\u017ce 8 mieszka\u0144 od 48 \u2013 52 m2 ",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Nie",
+        "bar": "Nie",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "W centrum",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "500",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107010",
+        "has_attachments": null,
+        "has_photos": "budar_9wiekow_wiz1_COI(2).jpg,lot-02-internet(14).jpg,lot-03-internet(11).jpg,01-internet(15).jpg,02-internet(12).jpg,budar_9wiekow_wiz1_COI(3).jpg,lot-01-internet(13).jpg,01-internet(19).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": 1,
+        "lift": "Tak",
+        "max_space": "500 m2",
+        "max_space_storey": "200 m2",
+        "miejscowo": "",
+        "min_period": "6 miesi\u0119cy",
+        "min_space": "25 m2",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "4",
+        "o_contact": "Joanna \u015awi\u0105der 508 197 168 biuro@aquakielce.pl ",
+        "o_name": "Aqua, dzia\u0142ki: 963/32, 963/33, 963/34, 963/22, 1031/1, Biurowiec Aqua (w trakcie budowy, termin oddania na prze\u0142omie 2014/2015) \n ",
+        "oid": "547b76653627353e6505eef1",
+        "panorama": null,
+        "park": "Nie",
+        "price": "Nie dotyczy",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "-",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "tak",
+        "short_name": "Kielce Al. IX Wiek\u00f3w Kielc 500 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Al. IX Wiek\u00f3w Kielc",
+        "sus_ce": "Tal",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek biurowy",
+        "wiatowd": "",
+        "year_cons": "2014",
+        "year_mod": "-"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.62221896416419,
+              50.894233482767916
+            ],
+            [
+              20.62200510962441,
+              50.89427686535649
+            ],
+            [
+              20.622171197876046,
+              50.89464045670945
+            ],
+            [
+              20.622027463192165,
+              50.89466922652083
+            ],
+            [
+              20.62207979857115,
+              50.89478506452419
+            ],
+            [
+              20.6226090264144,
+              50.894687957804955
+            ],
+            [
+              20.622558731320833,
+              50.89457017652901
+            ],
+            [
+              20.622372502291697,
+              50.89460207629343
+            ],
+            [
+              20.62221896416419,
+              50.894233482767916
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "-",
+        "air_cond": "Tak",
+        "atm": "Nie",
+        "bank": "Nie",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "3,5 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "T",
+        "filtr_pow": "1500",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107148",
+        "has_attachments": null,
+        "has_photos": "01-internet92.jpg,03-internet75.jpg,panorama-internet46.jpg,204_logo.jpg,196_logo.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "11",
+        "lift": "Tak",
+        "max_space": "1100 m2",
+        "max_space_storey": "240 m2",
+        "miejscowo": "",
+        "min_period": "36 miesi\u0119cy",
+        "min_space": "16 m2",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "5",
+        "o_contact": "Emilia Siwek, +48 41 278 72 emilia.siwek@technopark.kielce.pl",
+        "o_name": "KPT",
+        "oid": "547b76653627353e6505eef2",
+        "panorama": "kpt1-ok2_out.swf",
+        "park": "Tak",
+        "price": "Nie dotyczy",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "20-25 PLN netto/ m2 ",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Nie",
+        "short_name": "Kielce Olszewskiego 1100 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Olszewskiego 6",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek biurowy",
+        "wiatowd": "",
+        "year_cons": "2011, 2015",
+        "year_mod": "2015"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.62473906639385,
+              50.89669191040173
+            ],
+            [
+              20.6249329033382,
+              50.89665725965868
+            ],
+            [
+              20.62470566474077,
+              50.89616893327572
+            ],
+            [
+              20.62451094138341,
+              50.896205919801695
+            ],
+            [
+              20.62473906639385,
+              50.89669191040173
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "-",
+        "air_cond": "Nie",
+        "atm": "Nie",
+        "bank": "Nie",
+        "bar": "Nie",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "6 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": 520,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Nie",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107145",
+        "has_attachments": null,
+        "has_photos": "lot-03-internet76.jpg,panorama-internet82.jpg,02-internet87.jpg,01-internet18.jpg,03-internet50.jpg,lot-01-internet05.jpg,lot-02-internet89.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "10",
+        "lift": "Tak",
+        "max_space": "520 m2",
+        "max_space_storey": "520 m2",
+        "miejscowo": "",
+        "min_period": "3 miesi\u0105ce",
+        "min_space": "15 m2",
+        "monitoring": "Nie",
+        "newsagent": "Tak",
+        "num_stor": "9 kondygnacji (7 i 8 s\u0105 wy\u0142\u0105czone z u\u017cytkowania)",
+        "o_contact": "Joanna Skrobot, \"Chemar\" SA, tel. 41 367 50 15, kom. 604 216 537,  nw@chemar.com.pl",
+        "o_name": "Biuro Chemar, dzia\u0142ki: 6/85 ; 6/86",
+        "oid": "547b76653627353e6505eef4",
+        "panorama": "Chemar-panorama-sferyczna_out.swf",
+        "park": "Nie",
+        "price": "Nie dotyczy ",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Nie",
+        "rent": "Oko\u0142o 24 PLN/m2 ",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Nie",
+        "shops": "Nie",
+        "short_name": "Kielce Olszewskiego 520 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Olszewskiego",
+        "sus_ce": "Nie",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Wie\u017cowiec",
+        "wiatowd": "",
+        "year_cons": "1966",
+        "year_mod": "Brak danych"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.549665958318673,
+              50.84605540135554
+            ],
+            [
+              20.549495598486505,
+              50.84591893164414
+            ],
+            [
+              20.549370202829593,
+              50.84598767241107
+            ],
+            [
+              20.54923157458183,
+              50.84605658874239
+            ],
+            [
+              20.54940316281917,
+              50.84618823815579
+            ],
+            [
+              20.549487662980134,
+              50.84614137056527
+            ],
+            [
+              20.549509306954718,
+              50.84616267615717
+            ],
+            [
+              20.549565287876536,
+              50.84614044949442
+            ],
+            [
+              20.549520234078894,
+              50.84610549372782
+            ],
+            [
+              20.54953220318949,
+              50.84609871779715
+            ],
+            [
+              20.549545228765304,
+              50.8461164975753
+            ],
+            [
+              20.549665958318673,
+              50.84605540135554
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "-",
+        "air_cond": "Tak",
+        "atm": "Nie",
+        "bank": "Nie",
+        "bar": "Nie",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "6 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "2100",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "Na sprzeda\u017c; wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107152",
+        "has_attachments": null,
+        "has_photos": "03-internet490.jpg,lot-03-internet7.jpg,02-internet20.jpg,03-internet01.jpg,lot-01-internet34.jpg,01-internet10.jpg,lot-02-internet19.jpg,02-internet074.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "12",
+        "lift": "Nie",
+        "max_space": "2100 m2",
+        "max_space_storey": "1000 m2",
+        "miejscowo": "",
+        "min_period": "1 rok",
+        "min_space": "15 m2",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "3",
+        "o_contact": "Micha\u0142 Trafia\u0142ek\nhandlowy@scanduo.com.pl",
+        "o_name": "Bia\u0142ogon Pa\u0144ska dzia\u0142ka nr 702/3",
+        "oid": "547b76653627353e6505eef6",
+        "panorama": "panorama-sferyczna2.swf",
+        "park": "Nie",
+        "price": "10 000 000 PLN",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "50000 z\u0142 za ca\u0142o\u015b\u0107",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Nie",
+        "shops": "Nie",
+        "short_name": "Kielce Pa\u0144ska 2100 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Pa\u0144ska 84",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Biurowy",
+        "wiatowd": "",
+        "year_cons": "1995",
+        "year_mod": "Nie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.60191262122916,
+              50.86681390584395
+            ],
+            [
+              20.602068645497702,
+              50.86673323653827
+            ],
+            [
+              20.602653590191625,
+              50.86726102185678
+            ],
+            [
+              20.602470735799354,
+              50.86732532388749
+            ],
+            [
+              20.6022053743588,
+              50.867082836841554
+            ],
+            [
+              20.60191262122916,
+              50.86681390584395
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Parking na 120 miejsc, 5 wind w budynku ",
+        "air_cond": "Nie - wentylacja",
+        "atm": "Nie",
+        "bank": "Nie",
+        "bar": "Tak",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "1 km ",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1600",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak z PCV",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107099",
+        "has_attachments": null,
+        "has_photos": "IMG_8655.jpg,IMG_8711.jpg,IMG_8660.jpg,IMG_8680.jpg,IMG_8672.jpg,IMG_8677.jpg,IMG_8848.jpg,IMG_8702.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "6",
+        "lift": "Tak - 5",
+        "max_space": "1 600",
+        "max_space_storey": "800 m2",
+        "miejscowo": "",
+        "min_period": "-",
+        "min_space": "13,69 ",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "9",
+        "o_contact": "Tomasz G\u00f3rski \ntel.: 660665516\ne-mail: tgorski81@gmail.com",
+        "o_name": "",
+        "oid": "57986617362735691f6d2c4e",
+        "panorama": null,
+        "park": "Nie",
+        "price": "-",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "25 PLN",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Nie",
+        "shops": "Nie",
+        "short_name": "Kielce Jagiello\u0144ska 1600 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Jagiello\u0144ska",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Biurowiec",
+        "wiatowd": "",
+        "year_cons": "1985",
+        "year_mod": "2006"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.610076289246585,
+              50.87470526785965
+            ],
+            [
+              20.61063177111234,
+              50.87452662924993
+            ],
+            [
+              20.61001666731116,
+              50.87374394570911
+            ],
+            [
+              20.60948202951614,
+              50.87391223670897
+            ],
+            [
+              20.60947661819053,
+              50.87390895891979
+            ],
+            [
+              20.609587730961692,
+              50.87405828536397
+            ],
+            [
+              20.609902425368812,
+              50.87396510533363
+            ],
+            [
+              20.60995213801987,
+              50.87402392498934
+            ],
+            [
+              20.609653244470174,
+              50.87411437289345
+            ],
+            [
+              20.610076289246585,
+              50.87470526785965
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "",
+        "air_cond": "Nie",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "600 m od dworca kolejowego",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "3800",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "w\u0142asno\u015b\u0107",
+        "fitted_carp": "Tak",
+        "garages": "4 gara\u017ce zewn\u0119trzne",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2937449",
+        "has_attachments": null,
+        "has_photos": "184_logo.jpg,opalinskiej2.jpg,165_logo.jpg,opalinskiej4.jpg,opalinskiej1.jpg,168_logo.jpg,169_logo.jpg,193_logo.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak w\u0142asny serwer i sie\u0107 wewn\u0119trzna",
+        "kolejnosc": "11",
+        "lift": "Tak towarowa",
+        "max_space": "1400 m2",
+        "max_space_storey": "370 m2",
+        "miejscowo": "",
+        "min_period": "2 lata",
+        "min_space": "370 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "3 + u\u017cytkowe podpiwniczenie z oknami",
+        "o_contact": "Zbigniew Szczepanik\nzbyh61@gazeta.pl ",
+        "o_name": "",
+        "oid": "599e8fe836273571ad1af031",
+        "panorama": null,
+        "park": "Nie",
+        "price": "3 800 000z\u0142",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "35 z\u0142. za m2",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Opieli\u0144skiej 1400 m biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Opieli\u0144skiej 21",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak w\u0142asna centrala",
+        "terms_lease": "",
+        "terms_owner": "",
+        "terms_perpetual": "",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "biurowo us\u0142ugowy wielokondygnacyjny",
+        "wiatowd": "",
+        "year_cons": "80% obiektu 2006, 20% 1960",
+        "year_mod": "2006"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.626659809313846,
+              50.88719527321667
+            ],
+            [
+              20.626695701167293,
+              50.887236678205554
+            ],
+            [
+              20.626897934561473,
+              50.887260678670344
+            ],
+            [
+              20.627132499349237,
+              50.88722388448607
+            ],
+            [
+              20.627268478989567,
+              50.88717170232968
+            ],
+            [
+              20.62733294423602,
+              50.88712051718904
+            ],
+            [
+              20.62729341071316,
+              50.887050667602566
+            ],
+            [
+              20.62716327579137,
+              50.887042424752025
+            ],
+            [
+              20.627046851242216,
+              50.887047400299636
+            ],
+            [
+              20.62684925188975,
+              50.887080326632095
+            ],
+            [
+              20.626770492223446,
+              50.887101538973766
+            ],
+            [
+              20.626684778635045,
+              50.887151343749395
+            ],
+            [
+              20.626659809313846,
+              50.88719527321667
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "4860 m2",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "1,5 km",
+        "economic": "Nie",
+        "email": "katarzyna.cien@eurolocum.pl",
+        "filtr_park": "N",
+        "filtr_pow": "1267",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=8632660",
+        "has_attachments": null,
+        "has_photos": "DSC_1236.JPG,DSC_1239.JPG,DSC_1243.JPG,DSC_1248.JPG,DSC_1252.JPG,DSC_1236(2).JPG,DSC_1239(2).JPG,DSC_1243(2).JPG,DSC_1248(2).JPG",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": 0,
+        "lift": "Tak",
+        "max_space": "1267",
+        "max_space_storey": "634,90",
+        "miejscowo": "Kielce",
+        "min_period": "5 lat",
+        "min_space": "634,90",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "11",
+        "o_contact": "Katarzyna CIE\u0143\n",
+        "o_name": "Kielce ul. Zagna\u0144ska 61",
+        "oid": "5a45f1d03627357c00bf8f94",
+        "panorama": null,
+        "park": "Nie",
+        "price": "",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "48 PLN",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Nie",
+        "short_name": "Kielce Zagna\u0144ska 1267 m kw",
+        "soc_rooms": "Tak",
+        "standardbudynku": "A",
+        "street": "Zagna\u0144ska 61",
+        "sus_ce": "Tak",
+        "telefon": "41 344 63 63; 693 446 363",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Wysoko\u015bciowiec",
+        "wiatowd": "Tak",
+        "year_cons": "2007",
+        "year_mod": "Nie dotyczy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.600518795675544,
+              50.8606936677344
+            ],
+            [
+              20.600468344999715,
+              50.86033138260348
+            ],
+            [
+              20.60019606933934,
+              50.86034785816146
+            ],
+            [
+              20.600212808029443,
+              50.86047355606253
+            ],
+            [
+              20.600313496806546,
+              50.86046917567623
+            ],
+            [
+              20.600328647256617,
+              50.860588056796566
+            ],
+            [
+              20.60024481453979,
+              50.86059117411391
+            ],
+            [
+              20.600261284131573,
+              50.860709005229346
+            ],
+            [
+              20.600352052202375,
+              50.86070631158291
+            ],
+            [
+              20.600352681403965,
+              50.860722983789195
+            ],
+            [
+              20.600269039425005,
+              50.86075147573182
+            ],
+            [
+              20.60027197949858,
+              50.86077468659564
+            ],
+            [
+              20.600365159811147,
+              50.86081591911208
+            ],
+            [
+              20.600527943254086,
+              50.86075585003916
+            ],
+            [
+              20.600518795675544,
+              50.8606936677344
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "",
+        "air_cond": "Tak",
+        "atm": "W pobli\u017cu",
+        "bank": "W pobli\u017cu",
+        "bar": "W pobli\u017cu",
+        "cafe": "W pobli\u017cu",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1050",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "Na sprzeda\u017c; wynajem",
+        "fitted_carp": "Nie",
+        "garages": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107123",
+        "has_attachments": null,
+        "has_photos": "01-internet(10).jpg,02-internet(8).jpg,03-internet(8).jpg,lot-01-internet(8).jpg,lot-02-internet(10).jpg,lot-03-internet(8).jpg,01-internet(11).jpg,02-internet(9).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "8",
+        "lift": "Nie",
+        "max_space": "1050 m2  ",
+        "max_space_storey": "299,88 m2 ",
+        "miejscowo": "",
+        "min_period": "Na sprzeda\u017c ",
+        "min_space": "1050 m2 ",
+        "monitoring": "Tak",
+        "newsagent": "W pobli\u017cu",
+        "num_stor": "2 ",
+        "o_contact": "Magdalena Kry\u015b +48 504 171 539\nmagdalena.krys@maxtel.com.pl\n",
+        "o_name": "Kielce ul. Krakowska Nr ew. dzia\u0142ki  821 obr\u0119b Kielce, 10115 (015)",
+        "oid": "568b975d36273571267fbb62",
+        "panorama": null,
+        "park": "Nie",
+        "price": "3 690 000 PLN Gross  ",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "- ",
+        "restaurant": "W pobli\u017cu",
+        "security": "Tak",
+        "services": "W pobli\u017cu ",
+        "shops": "W pobli\u017cu",
+        "short_name": "Kielce Krakowska 1050 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Krakowska 89",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek wolnostoj\u0105cy ",
+        "wiatowd": "",
+        "year_cons": "2000 ",
+        "year_mod": "-"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.636366590005288,
+              50.8697712249687
+            ],
+            [
+              20.636342232835155,
+              50.8697103386761
+            ],
+            [
+              20.63639341861325,
+              50.86968862225551
+            ],
+            [
+              20.636369061453834,
+              50.86962773596765
+            ],
+            [
+              20.63630533770336,
+              50.86963824478975
+            ],
+            [
+              20.636248919128537,
+              50.869554783052756
+            ],
+            [
+              20.636575677931454,
+              50.86950279500924
+            ],
+            [
+              20.636632083507877,
+              50.86963765947705
+            ],
+            [
+              20.63680476565056,
+              50.86961332872557
+            ],
+            [
+              20.636886054389453,
+              50.86973934500884
+            ],
+            [
+              20.636690543026905,
+              50.869773269499696
+            ],
+            [
+              20.63665407042647,
+              50.86972522937631
+            ],
+            [
+              20.636366590005288,
+              50.8697712249687
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Od sezonu 2016/2017 ogrzewanie z sieci miejskiej.",
+        "air_cond": "Tak, cz\u0119\u015bciowo",
+        "atm": "W pobli\u017cu",
+        "bank": "W pobli\u017cu",
+        "bar": "W pobli\u017cu",
+        "cafe": "W pobli\u017cu",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "W centrum",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1254",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak, w ci\u0105gach komunikacyjnych i na g\u0142\u00f3wnej sali",
+        "garages": "2 gara\u017ce jednostanowiskowe, ok. 45 miejsc parkingowych na terenie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107105",
+        "has_attachments": null,
+        "has_photos": "IMG_8720.jpg,IMG_8730.jpg,IMG_8744.jpg,IMG_8757.jpg,IMG_8743.jpg,IMG_8751.jpg,IMG_8761.jpg,IMG_8730(2).jpg,IMG_8757(2).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak, doprowadzony \u015bwiat\u0142ow\u00f3d",
+        "kolejnosc": "7",
+        "lift": "Nie",
+        "max_space": "Ca\u0142y budynek i plac ",
+        "max_space_storey": "Powierzchnia u\u017cytkowa budynku 1254,32 m2 (parter \u2013 487,53 m2, pi\u0119tro I - 412,33, pi\u0119tro II \u2013 84,53 m2, piwnica \u2013 269,93)",
+        "miejscowo": "",
+        "min_period": "2 lata",
+        "min_space": "Ca\u0142y budynek i plac ",
+        "monitoring": "Rozprowadzona instalacja",
+        "newsagent": "W pobli\u017cu",
+        "num_stor": "3 kondygnacje nadziemne i jedna podziemna",
+        "o_contact": "Agnieszka Mocko\ntel.: 517959998\ne-mail: a.mocko@annabud.pl",
+        "o_name": "Pa\u0142acyk Honingmana ",
+        "oid": "57986cae36273578b8547f50",
+        "panorama": null,
+        "park": "Nie",
+        "price": "-",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Nie",
+        "rent": "65 000 PLN",
+        "restaurant": "W pobli\u017cu",
+        "security": "Nie",
+        "services": "W pobli\u017cu ",
+        "shops": "W pobli\u017cu",
+        "short_name": "Kielce Ko\u015bciuszki 1254 m kw",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Ko\u015bciuszki ",
+        "sus_ce": "Tak, cz\u0119\u015bciowo",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek wolnostoj\u0105cy, teren ogrodzony, obiekt zabytkowy",
+        "wiatowd": "",
+        "year_cons": "1878",
+        "year_mod": "1999-2000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.641191316307538,
+              50.86619870884336
+            ],
+            [
+              20.64142794049804,
+              50.86614844653313
+            ],
+            [
+              20.641177900651645,
+              50.865665860275
+            ],
+            [
+              20.640936336707185,
+              50.865726248863005
+            ],
+            [
+              20.641191316307538,
+              50.86619870884336
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Nowoczesna powierzchnia biurowa typu open space",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "600 m",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1690",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "prking podziemny 50 miejsc",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107572",
+        "has_attachments": null,
+        "has_photos": "wizualizacja_1.jpg,IMG_8851.jpg,IMG_8853.jpg,wizualizacja_2.jpg,IMG_8858.jpg,IMG_8855.jpg,IMG_8852.jpg,wizualizacja_2(2).jpg,IMG_8856.jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "14",
+        "lift": "Tak",
+        "max_space": "1690",
+        "max_space_storey": "580",
+        "miejscowo": "",
+        "min_period": "Do negocjacji",
+        "min_space": "560",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "5",
+        "o_contact": "MARCIN KOZIE\u0141\n+48 697090103\nmarcin.koziel@podtelegrafem.pl",
+        "o_name": "",
+        "oid": "57d92c5f3627354106d7e29d",
+        "panorama": null,
+        "park": "Nie",
+        "price": "",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "",
+        "rent": "",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Tarnowska 1690 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Tarnowska",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek handlowo-biurowo-us\u0142ugowy",
+        "wiatowd": "",
+        "year_cons": "2016",
+        "year_mod": "Nie dotyczy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.62598561017415,
+              50.88538668728816
+            ],
+            [
+              20.626790459263738,
+              50.885073830591885
+            ],
+            [
+              20.62669710686088,
+              50.8849502017357
+            ],
+            [
+              20.62673999850526,
+              50.88477106604682
+            ],
+            [
+              20.626717291164063,
+              50.88471051313773
+            ],
+            [
+              20.62668701470978,
+              50.884715559213724
+            ],
+            [
+              20.6266693534446,
+              50.884677713645885
+            ],
+            [
+              20.625661644455057,
+              50.88500021978942
+            ],
+            [
+              20.62598561017415,
+              50.88538668728816
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Cech\u0105 charakterystyczn\u0105 jest wysoko\u015b\u0107 poszczeg\u00f3lnych kondygnacji (do 4 metr\u00f3w) i ich otwarty charakter.",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Tak",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "1,4 km",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": "1140",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "48 miejsc parkingowych",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107073",
+        "has_attachments": "Stacja_Biznesu_folder_2016.pdf@Stacja_Biznesu_folder_2016.pdf",
+        "has_photos": "K4A9173_2017_04_Stacja_Biznesu_fot_K_Peczalski.jpg,img_20170410100416__K4A9038_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl.jpg,lot-03-internet28.jpg,img_20170410100735__K4A9041_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl.jpg,img_20170410100650__K4A9044_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl.jpg,img_20170410100812__K4A9031_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl.jpg,img_20170410100650__K4A9044_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl(2).jpg,K4A9173_2017_04_Stacja_Biznesu_fot_K_Peczalski(2).jpg,img_20170410100735__K4A9041_2017_04_Stacja_Biznesu_fot_K_Peczalski_zmniejszamy_pl(2).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "5",
+        "lift": "Tak",
+        "max_space": "1\u00a0140 m2",
+        "max_space_storey": "630 m2",
+        "miejscowo": "",
+        "min_period": "Do negocjacji",
+        "min_space": "120 m2",
+        "monitoring": "Tak",
+        "newsagent": "Tak",
+        "num_stor": "5 kondygnacje nadziemne oraz piwnice",
+        "o_contact": "Agnieszka Tworek\nSpecjalista ds. Rozwoju\ntel. +48 607 070 987\ne-mail a.tworek@dorbud.pl\n",
+        "o_name": "G\u0142\u0119boczka",
+        "oid": "547b76653627353e6505eef5",
+        "panorama": null,
+        "park": "Nie",
+        "price": "",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "40-45 PLN/m2",
+        "restaurant": "Tak",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce G\u0142\u0119boczka 1140 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "ul. Zagna\u0144ska 49",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek biurowo-us\u0142ugowy o charakterze postindustrialnym",
+        "wiatowd": "",
+        "year_cons": "1949",
+        "year_mod": "2016 "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.62993848430255,
+              50.87330288100307
+            ],
+            [
+              20.629794749484883,
+              50.87301341792662
+            ],
+            [
+              20.629769676044774,
+              50.873015757658976
+            ],
+            [
+              20.629761402703704,
+              50.87300393584112
+            ],
+            [
+              20.629839488360204,
+              50.87298891837461
+            ],
+            [
+              20.629925978904982,
+              50.873169755139855
+            ],
+            [
+              20.630082046533513,
+              50.8731367370449
+            ],
+            [
+              20.62999907988152,
+              50.87296679375218
+            ],
+            [
+              20.630022547169165,
+              50.87296348162494
+            ],
+            [
+              20.629981988501108,
+              50.87288247616918
+            ],
+            [
+              20.62995548247376,
+              50.872888815071974
+            ],
+            [
+              20.62989279588856,
+              50.87275937442566
+            ],
+            [
+              20.629268285768312,
+              50.872884484447134
+            ],
+            [
+              20.629376624196013,
+              50.87310580256232
+            ],
+            [
+              20.62933447301584,
+              50.87311434932525
+            ],
+            [
+              20.62944349495014,
+              50.87340031853028
+            ],
+            [
+              20.629719582581174,
+              50.873382536295686
+            ],
+            [
+              20.6297027583257,
+              50.873350938289654
+            ],
+            [
+              20.62993848430255,
+              50.87330288100307
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Biura od 11-40 m2 plus powierzchnia us\u0142ugowa 500 m2 ",
+        "air_cond": "Tak",
+        "atm": "Tak",
+        "bank": "Tak",
+        "bar": "Nie",
+        "cafe": "Tak",
+        "cakowitapowierzchniadziaki": "",
+        "city": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "W centrum miasta",
+        "economic": "Nie",
+        "email": "",
+        "filtr_park": "N",
+        "filtr_pow": 500,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=2107620",
+        "has_attachments": null,
+        "has_photos": "budynek_2014xxx.jpg,DAL-lot2.jpg,02-internet67.jpg,lot-01-internet129.jpg,03-internet64.jpg,lot-02-internet87.jpg,budynek_2014xxx(2).jpg",
+        "ind_arr": "Tak",
+        "internet": "Tak",
+        "kolejnosc": "13",
+        "lift": "Tak \u2013 2 szt.",
+        "max_space": "500 m2",
+        "max_space_storey": "500 m2",
+        "miejscowo": "",
+        "min_period": "3 miesi\u0105ce ",
+        "min_space": "20,51 m2",
+        "monitoring": "Tak",
+        "newsagent": "Nie",
+        "num_stor": "1-11",
+        "o_contact": "Damian Kula , 668 024 354, biuro.kielce@dekom.com.pl",
+        "o_name": "Hotel Dal, nr dzia\u0142ki: 979/1, 979/3 obr\u0119b ewidencyjny 0010",
+        "oid": "547b76653627353e6505eeee",
+        "panorama": "Hotel-DAL_out.swf",
+        "park": "Nie",
+        "price": "Nie dotyczy",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "38 PLN netto/m2 pi\u0119tra od 7-10; 70 PLN netto/m2 parter",
+        "restaurant": "Tak \u2013 2 szt.",
+        "security": "Tak",
+        "services": "Tak",
+        "shops": "Tak",
+        "short_name": "Kielce Piotrkowska 500 m kw biuro ",
+        "soc_rooms": "Tak",
+        "standardbudynku": "",
+        "street": "Piotrkowska 12 ",
+        "sus_ce": "Tak",
+        "telefon": "",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Nie",
+        "terms_perpetual": "Nie",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Lokale biurowe oraz handowo-us\u0142ugowe",
+        "wiatowd": "",
+        "year_cons": "Lata 70-te",
+        "year_mod": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.63677177512569,
+              50.910960791233606
+            ],
+            [
+              20.637393532026334,
+              50.91084814667386
+            ],
+            [
+              20.637163425109325,
+              50.91033510298642
+            ],
+            [
+              20.636552744481374,
+              50.9104610007113
+            ],
+            [
+              20.636540969255048,
+              50.91042764169619
+            ],
+            [
+              20.63677177512569,
+              50.910960791233606
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "add_info": "Bardzo ciekawe wn\u0119trze o industrialnym charakterze w formule open space, idealne na biuro/ oddzia\u0142 firmy. Biuro jest w pe\u0142ni wyko\u0144czone. Budynek znajduje si\u0119 na ogrodzonym terenie z dost\u0119pem do parkingu.",
+        "air_cond": "Nie",
+        "atm": "Nie",
+        "bank": "Nie",
+        "bar": "Nie",
+        "cafe": "Nie",
+        "cakowitapowierzchniadziaki": "",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "distance": "4 km",
+        "economic": "Nie",
+        "email": " a.tworek@dorbud.pl",
+        "filtr_park": "N",
+        "filtr_pow": "378",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "Na sprzeda\u017c; wynajem",
+        "fitted_carp": "Tak",
+        "garages": "Parking naziemny",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=8460275",
+        "has_attachments": null,
+        "has_photos": "001_MG_3847_dorbud_kielce_doto_2.jpg,002_MG_3853_dorbud_kielce_doto_2.jpg,003_MG_3859_dorbud_kielce_doto_2.jpg,004_MG_3865_dorbud_kielce_doto_2.jpg,006_MG_3883_dorbud_kielce_doto_2.jpg,IMG_9166.jpg,001_MG_3847_dorbud_kielce_doto_2(2).jpg,002_MG_3853_dorbud_kielce_doto_2(2).jpg,003_MG_3859_dorbud_kielce_doto_2(2).jpg,006_MG_3883_dorbud_kielce_doto_2(2).jpg",
+        "ind_arr": "Nie",
+        "internet": "Tak",
+        "kolejnosc": 0,
+        "lift": "Nie",
+        "max_space": "378.39 m2",
+        "max_space_storey": "378.39 m2",
+        "miejscowo": "Kielce",
+        "min_period": "3 lata",
+        "min_space": "378.39",
+        "monitoring": "Nie",
+        "newsagent": "Nie",
+        "num_stor": "2",
+        "o_contact": "Agnieszka Tworek\n",
+        "o_name": "",
+        "oid": "5a3b94ec3627352f13bb5ca5",
+        "panorama": null,
+        "park": "Nie",
+        "price": "do negocjacji ",
+        "province": "\u015awi\u0119tokrzyskie",
+        "public": true,
+        "reception": "Tak",
+        "rent": "38 z\u0142 netto (do negocjacji przy wynajmie d\u0142u\u017cszym ni\u017c 4 lata)",
+        "restaurant": "Nie",
+        "security": "Tak",
+        "services": "Nie",
+        "shops": "Nie",
+        "short_name": "Kielce Zagna\u0144ska 378 m kw biuro",
+        "soc_rooms": "Tak",
+        "standardbudynku": "bardzo dobry",
+        "street": "Zagna\u0144ska 153",
+        "sus_ce": "Nie",
+        "telefon": "607 070 987",
+        "telephone": "Tak",
+        "terms_lease": "Tak",
+        "terms_owner": "Tak",
+        "terms_perpetual": "Tak",
+        "town": "Kielce",
+        "type": "547b76653627353e6505ee3d",
+        "type_build": "Budynek biurowy ",
+        "wiatowd": "Tak",
+        "year_cons": "2014",
+        "year_mod": "-"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

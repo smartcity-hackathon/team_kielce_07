@@ -1,0 +1,1790 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.615236482880277,
+              50.87901209935896
+            ],
+            [
+              20.616270263715002,
+              50.87861491043958
+            ],
+            [
+              20.61604121638167,
+              50.878374022159065
+            ],
+            [
+              20.61604884555546,
+              50.878366949903665
+            ],
+            [
+              20.61604050103978,
+              50.87836907464747
+            ],
+            [
+              20.615756041723817,
+              50.878476367691384
+            ],
+            [
+              20.61566962596197,
+              50.878387322297876
+            ],
+            [
+              20.614923170259484,
+              50.878681194350676
+            ],
+            [
+              20.615236482880277,
+              50.87901209935896
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Najbli\u017csza droga S7,  droga krajowa nr 73 i 74 w odleg\u0142o\u015bci od 2 do 5 km",
+        "bocz": "Nie",
+        "budowa": "1950",
+        "cena": "Nie dotyczy",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "27 09 2012",
+        "email": "Jaroslaw.botkiewicz@kolporter.com.pl",
+        "filtr_droga": 2,
+        "filtr_park": "N",
+        "filtr_pow_m2": 2000,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "w\u0142asnosc",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1620537",
+        "has_attachments": null,
+        "has_photos": "lot-01-obrys-logo8.jpg,03-internet41.jpg,lot-02-internet48.jpg,02-internet42.jpg,lot-03-internet483.jpg,01-internet129.jpg",
+        "kanal": "Nie",
+        "kolejnosc": "8",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2009",
+        "nacisk": "-",
+        "nazwa": "Hala Kolporter nr dzia\u0142ki 1813",
+        "ogrz": "Nie",
+        "oid": "547b76663627353e6505eff5",
+        "osobakontaktowa": " Jaros\u0142aw Botkiewicz 510 030 031 Jaroslaw.botkiewicz@kolporter.com.pl",
+        "panorama": "Hala-kolporter-panorama-sferyczna_out.swf",
+        "pietro": "1",
+        "pow": "2 000",
+        "pow_ter": "58 901",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Mielczarskiego 2000 m hala",
+        "sse": "Nie",
+        "stan": "S\u0142aby",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": " +48 510 030 031",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "",
+        "waciciel": "Kolporter, Jaros\u0142aw Botkiewicz, Jaroslaw.botkiewicz@kolporter.com.pl,",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "-",
+        "wys": "12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.536261423207662,
+              50.84558080876462
+            ],
+            [
+              20.536233529672913,
+              50.845382067329716
+            ],
+            [
+              20.536083601923508,
+              50.845392527405224
+            ],
+            [
+              20.53608708861536,
+              50.84545180116654
+            ],
+            [
+              20.535714012587825,
+              50.84548318139307
+            ],
+            [
+              20.535720985971526,
+              50.84551107492791
+            ],
+            [
+              20.53534442325214,
+              50.84554245515445
+            ],
+            [
+              20.535361856711372,
+              50.84565751598519
+            ],
+            [
+              20.536261423207662,
+              50.84558080876462
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 - 10km",
+        "bocz": "Nie",
+        "budowa": "2012",
+        "cena": "Nie dotyczy",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "28.03.2014",
+        "email": "",
+        "filtr_droga": null,
+        "filtr_park": "N",
+        "filtr_pow_m2": 320,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621787",
+        "has_attachments": null,
+        "has_photos": "01-internet23.jpg,lot-03-internet64.jpg,02-internet11.jpg,lot-02-internet12.jpg,03-internet655.jpg,lot-01-internet91.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "23",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "-",
+        "nacisk": "-",
+        "nazwa": "Kielce, Zg\u00f3rska 10,  hala warsztatowa nr dzia\u0142ki\n 310",
+        "ogrz": "Tak",
+        "oid": "547b76663627353e6505f0d5",
+        "osobakontaktowa": "Jan Nagadowski, PPHU Nami, +48 509 234 413, biuro@pphunami.pl",
+        "panorama": "p-zgorska-panorama8.swf",
+        "pietro": "1",
+        "pow": "320",
+        "pow_ter": "1 900",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Zg\u00f3rska hala 320 m hala",
+        "sse": "Nie\n",
+        "stan": "Doskona\u0142y",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Powierzchnia cz\u0119\u015bci biurowej \u2013 180 m.kw., cz\u0119\u015bci magazynowej \u2013 120 m.kw., cz\u0119\u015bci socjalnej- 60 m.kw. W\u0142a\u015bciciel wyra\u017ca ch\u0119\u0107 do wsp\u00f3\u0142pracy, zawi\u0105zania kooperacji w zakresie informatyki, elektroniki. Otwarty r\u00f3wnie\u017c na inne propozycje.",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce - 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie\n",
+        "www": "http://www.pphunami.pl/index2.html",
+        "wys": "3,0\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.644063860726284,
+              50.84654046361309
+            ],
+            [
+              20.643847813556636,
+              50.846552248004265
+            ],
+            [
+              20.643910663642348,
+              50.8469254203864
+            ],
+            [
+              20.644118854551284,
+              50.84691363599524
+            ],
+            [
+              20.644063860726284,
+              50.84654046361309
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 - 10km",
+        "bocz": "Nie",
+        "budowa": "1980",
+        "cena": "Do negocjacji",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "18.09.2013",
+        "email": "",
+        "filtr_droga": "",
+        "filtr_park": "N",
+        "filtr_pow_m2": 630,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1619797",
+        "has_attachments": null,
+        "has_photos": "lot-01-obrys-logo4.jpg,03-internet47.jpg,lot-03-internet19.jpg,01-internet25.jpg,02-internet16.jpg,lot-02-obrys-logo.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "3",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2000",
+        "nacisk": "6000",
+        "nazwa": "Kielce hala Roma II, Hauke Bosaka 1, nr dzia\u0142ek 1353/14 1353/13 1353/15",
+        "ogrz": "Nie",
+        "oid": "547b76663627353e6505f16a",
+        "osobakontaktowa": "Emilia Wojsa722.22.63.63emilia.wojsa@eurolocum.pl",
+        "panorama": "panorama-sferyczna(2).swf",
+        "pietro": "1",
+        "pow": "630",
+        "pow_ter": "28 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Hauke Bosaka 630 m hala",
+        "sse": "Nie",
+        "stan": "Dobry",
+        "suwnica": "Tak",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce - 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie\n",
+        "www": "www.eurolocum.pl",
+        "wys": "8,0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.644126710732767,
+              50.84694113291395
+            ],
+            [
+              20.64549762822701,
+              50.84684292965518
+            ],
+            [
+              20.645458346923434,
+              50.84654831987964
+            ],
+            [
+              20.644079573168497,
+              50.84663473874741
+            ],
+            [
+              20.644126710732767,
+              50.84694113291395
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 - 10km",
+        "bocz": "Nie",
+        "budowa": "1969",
+        "cena": "Do negocjacji",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "16.09.2013",
+        "email": "",
+        "filtr_droga": "",
+        "filtr_park": "N",
+        "filtr_pow_m2": 2900,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1620056",
+        "has_attachments": null,
+        "has_photos": "lot-01-internet01.jpg,03-internet956.jpg,01-internet36.jpg,lot-03-internet95.jpg,02-internet91.jpg,lot-02-obrys-logo0.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "6",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2000",
+        "nacisk": "6000",
+        "nazwa": "Kielce Roma  warehouse III, Hauke Bosaka 1, Plots no 1353/14 1353/13 1353/15",
+        "ogrz": "Nie",
+        "oid": "547b76663627353e6505f18c",
+        "osobakontaktowa": "Emilia Wojsa722.22.63.63emilia.wojsa@eurolocum.pl",
+        "panorama": "bosaka3.swf",
+        "pietro": "1",
+        "pow": "2900",
+        "pow_ter": "28 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Hauke Bosaka 2900 m hala",
+        "sse": "Nie",
+        "stan": "Dobry",
+        "suwnica": "Tak",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce - 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "www.eurolocum.pl",
+        "wys": "7,0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.587394513434944,
+              50.89283414178104
+            ],
+            [
+              20.58741404055227,
+              50.89298319482516
+            ],
+            [
+              20.587991330675056,
+              50.89295151446545
+            ],
+            [
+              20.588293106418984,
+              50.89293095550151
+            ],
+            [
+              20.58829421098943,
+              50.89291019983541
+            ],
+            [
+              20.58847602084022,
+              50.89290374697947
+            ],
+            [
+              20.589200018719037,
+              50.892861678683516
+            ],
+            [
+              20.589177606909573,
+              50.89269232263616
+            ],
+            [
+              20.588737821963555,
+              50.89271889752273
+            ],
+            [
+              20.5882955810114,
+              50.892740238919785
+            ],
+            [
+              20.58830783467508,
+              50.8927218705953
+            ],
+            [
+              20.588302695290476,
+              50.89265846183071
+            ],
+            [
+              20.588127420400934,
+              50.892671595166455
+            ],
+            [
+              20.5879573295109,
+              50.89268130530523
+            ],
+            [
+              20.5879684160617,
+              50.892742879875065
+            ],
+            [
+              20.58826361275804,
+              50.89272829824617
+            ],
+            [
+              20.588261327261847,
+              50.892755732785325
+            ],
+            [
+              20.58826952393868,
+              50.892779672280284
+            ],
+            [
+              20.587808206055712,
+              50.89280806990242
+            ],
+            [
+              20.587394513434944,
+              50.89283414178104
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa nr S7 \u2013 10 km",
+        "bocz": "Nie",
+        "budowa": "1976",
+        "cena": "Do negocjacji",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "16.09.2013",
+        "email": "",
+        "filtr_droga": "",
+        "filtr_park": "N",
+        "filtr_pow_m2": 1134,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621368",
+        "has_attachments": null,
+        "has_photos": "lot-01-obrys-logo5.jpg,03-internet093.jpg,lot-03-internet09.jpg,01-internet22.jpg,02-internet004.jpg,lot-02-internet81.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "15",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "-",
+        "nacisk": "5000",
+        "nazwa": "Hala przy ul. Skrajnej Nr ew. dz. 94/4",
+        "ogrz": "Tak",
+        "oid": "547b76663627353e6505f281",
+        "osobakontaktowa": "Emilia Wojsa 722.22.63.63 emilia.wojsa@eurolocum.pl",
+        "panorama": "panorama-sferyczna33.swf",
+        "pietro": "1",
+        "pow": "1134",
+        "pow_ter": "11 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Skrajna 1134 m hala",
+        "sse": "Nie",
+        "stan": "Dobry",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Do najmu 1 budynek",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "-",
+        "wys": "6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [
+                20.61515191393186,
+                50.87358682471933
+              ],
+              [
+                20.615314292576112,
+                50.873812138179304
+              ],
+              [
+                20.6151764363519,
+                50.87386911761327
+              ],
+              [
+                20.61532312097612,
+                50.874090725136284
+              ],
+              [
+                20.616363887197704,
+                50.8737770131822
+              ],
+              [
+                20.616009790901167,
+                50.87330027669225
+              ],
+              [
+                20.61515191393186,
+                50.87358682471933
+              ]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 - 7 km",
+        "bocz": "Nie",
+        "budowa": "1950; 1970; 1990",
+        "cena": "8 500 000 PLN",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "09.09.2011",
+        "email": "",
+        "filtr_droga": 7,
+        "filtr_park": "N",
+        "filtr_pow_m2": 4814,
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621258",
+        "has_attachments": null,
+        "has_photos": "11_1.jpg,11_5.jpg,11_3.jpg,lot-01-obrys-logo2.jpg,11_4.jpg,02-internet59.jpg",
+        "kanal": "Tak",
+        "kolejnosc": 13,
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "1990",
+        "nacisk": "4 000",
+        "nazwa": "Hala na Siennej  Nr ew. dz. 61; 62",
+        "ogrz": "Tak",
+        "oid": "547b76663627353e6505f3de",
+        "osobakontaktowa": "Emilia Wojsa 722.22.63.63 emilia.wojsa@eurolocum.pl",
+        "panorama": "panorama-sferyczna22.swf",
+        "pietro": "1",
+        "pow": "4 814",
+        "pow_ter": "4 521",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Sienna 4814 m hala",
+        "sse": "Nie",
+        "stan": "\u015aredni",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Budynek administracji pow 779 mkw; budynek I produkcyjny pow 418 m kw; budynek II produkcyjny pow 349 m kw; budynek III produkcyjny pow 358 m kw; Budynek IV produkcyjny pow; 1680 m kw; budynek V produkcyjny pow 422 m kw; droga i plac wew 808 m kw",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "-",
+        "wys": "9,5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.6241599215454,
+              50.89889109717813
+            ],
+            [
+              20.62489753780067,
+              50.89876014406976
+            ],
+            [
+              20.624458772935725,
+              50.89765325040582
+            ],
+            [
+              20.62368189982716,
+              50.897798156599606
+            ],
+            [
+              20.62394615052274,
+              50.89838450492937
+            ],
+            [
+              20.6241599215454,
+              50.89889109717813
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa E 74 - 0.5 km",
+        "bocz": "Nie",
+        "budowa": "2012",
+        "cena": "25.00",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "",
+        "email": "",
+        "filtr_droga": 0.5,
+        "filtr_park": "T",
+        "filtr_pow_m2": "7678",
+        "filtr_sse": "T",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1619544",
+        "has_attachments": null,
+        "has_photos": "KPT-laboratorium32.jpg,KPT-laboratorium25.jpg,01-internet025.jpg,02-internet08.jpg,lot-02-internet98.jpg,KPT-laboratorium18.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "9",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "-",
+        "nacisk": "-",
+        "nazwa": "Kielce hala Oulu ul. Olszewskiego 20 ",
+        "ogrz": "Tak",
+        "oid": "547b76663627353e6505f478",
+        "osobakontaktowa": "Emilia Siwek KPT emilia.siwek@technopark.kielce.pl 41 278 72 31 ",
+        "panorama": "panorama_sferyczna5.swf",
+        "pietro": "2",
+        "pow": "462",
+        "pow_ter": "12 794",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Olszewskiego Hala Oulu 462 m",
+        "sse": "Tak",
+        "stan": "Doskona\u0142y",
+        "suwnica": "Nie",
+        "tech": "Tak",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "11,55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.6221935836306,
+              50.89756793533091
+            ],
+            [
+              20.62275679957411,
+              50.8974528290417
+            ],
+            [
+              20.623110358126464,
+              50.89816868162777
+            ],
+            [
+              20.623021097404326,
+              50.89819338974516
+            ],
+            [
+              20.622981327530432,
+              50.89811683726843
+            ],
+            [
+              20.622544688536518,
+              50.898213423029404
+            ],
+            [
+              20.6221935836306,
+              50.89756793533091
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa E 74 - 0.5 km",
+        "bocz": "Nie",
+        "budowa": "2012",
+        "cena": "25.00",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "",
+        "email": "",
+        "filtr_droga": "0.5",
+        "filtr_park": "T",
+        "filtr_pow_m2": "7678",
+        "filtr_sse": "T",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1619544",
+        "has_attachments": null,
+        "has_photos": "01-internet(22).jpg,02-internet(17).jpg,03-internet(17).jpg,lot-01-internet(19).jpg,lot-02-internet(19).jpg",
+        "kanal": "Tak",
+        "kolejnosc": "9",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "-",
+        "nacisk": "-",
+        "nazwa": "Kielce hala Oulu ul. Olszewskiego 20 ",
+        "ogrz": "Tak",
+        "oid": "592e92bd3627351ddb6de266",
+        "osobakontaktowa": "Emilia Siwek KPT emilia.siwek@technopark.kielce.pl 41 278 72 31 ",
+        "panorama": null,
+        "pietro": "2",
+        "pow": "462",
+        "pow_ter": "12 794",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Olszewskiego Hala Oulu 462 m",
+        "sse": "Tak",
+        "stan": "Doskona\u0142y",
+        "suwnica": "Nie",
+        "tech": "Tak",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "11,55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.71265401039865,
+              50.893429980588955
+            ],
+            [
+              20.71284886869847,
+              50.893683298989096
+            ],
+            [
+              20.71427020207113,
+              50.89321652505002
+            ],
+            [
+              20.71422967161914,
+              50.893163155372825
+            ],
+            [
+              20.714234453901703,
+              50.893117127337824
+            ],
+            [
+              20.71421341396224,
+              50.89308409710309
+            ],
+            [
+              20.71420131933766,
+              50.893066041958114
+            ],
+            [
+              20.71416084593803,
+              50.893042144109515
+            ],
+            [
+              20.71411615513805,
+              50.893023112942515
+            ],
+            [
+              20.714079484015585,
+              50.892973855590306
+            ],
+            [
+              20.71265401039865,
+              50.893429980588955
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa E 74 - 6 km",
+        "bocz": "Nie",
+        "budowa": "2010",
+        "cena": "6 200 000 PLN netto\t",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "23.11.2015 r. ",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_m_woj": "5",
+        "filtr_park": "N",
+        "filtr_pow_m2": "3107",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "w\u0142asnosc",
+        "gaz": "Tak",
+        "geoportal_link": "http://maslow.e-mapa.net?userview=2",
+        "has_attachments": null,
+        "has_photos": "01-internet(7).jpg,lot-01-internet(6).jpg,02-internet(6).jpg,lot-02-internet(6).jpg,03-internet(5).jpg,lot-03-internet(5).jpg,01-internet(8).jpg",
+        "kanal": "Nie",
+        "kolejnosc": "24",
+        "lotn": "Krak\u00f3w Balice -142 km",
+        "miasto": "Mas\u0142\u00f3w",
+        "modern": "-",
+        "nacisk": "5000",
+        "nazwa": "Mas\u0142\u00f3w Pierwszy, ul. Modrzewiowa 48 nr ew. dzia\u0142ki 1090/2",
+        "ogrz": "Tak",
+        "oid": "568b87ed36273567a003ab26",
+        "osobakontaktowa": "Piotr Mieczkowski tel. 087 629 14 96, piotr@serwistal.pl",
+        "panorama": null,
+        "pietro": "2",
+        "pow": "3 107, 10 ",
+        "pow_ter": "21 202 ",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Mas\u0142\u00f3w Modrzewiowa 3107 m hala",
+        "sse": "Nie\n",
+        "stan": "Doskona\u0142y",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Na terenie nieruchomo\u015bci znajduj\u0105 si\u0119: ogrodzenie, utwardzone ci\u0105gi komunikacyjne, place i parkingi wykonane z kostki betonowej o ca\u0142kowitej powierzchni ok. 5.100 m. kw., o\u015bwietlenie zewn\u0119trzne, zbiornik przeciwpo\u017carowy, podziemny zbiornik oleju w kot\u0142owni, przy\u0142\u0105cza i sieci instalacyjne i wodoci\u0105gowe, kanalizacji sanitarnej za zbiornikiem na \u015bcieki, kanalizacji deszczowej, elektrycznej, 4 przelotowe bramy, stacja TRAFO 240 kW. Teren z w\u0142asnymi drogami przejazdowymi, ogrodzony, obszerne place manewrowe, postojowe, parkingowe, zazieleniony, utwardzony, wy\u0142o\u017cony kostk\u0105, zadbany. ",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c",
+        "woda": "Tak",
+        "woj": "Kielce - 5 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "www.serwistal.pl",
+        "wys": "5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.60165291289207,
+              50.88357987644268
+            ],
+            [
+              20.601542146947267,
+              50.883149565169155
+            ],
+            [
+              20.601581987565964,
+              50.88314542739809
+            ],
+            [
+              20.601576717779768,
+              50.88312552102806
+            ],
+            [
+              20.60165900819368,
+              50.883116430292546
+            ],
+            [
+              20.601646358031093,
+              50.88306940964756
+            ],
+            [
+              20.601557446121397,
+              50.883079050724675
+            ],
+            [
+              20.60155977975911,
+              50.8830874696598
+            ],
+            [
+              20.601286090472083,
+              50.883115743879266
+            ],
+            [
+              20.601331177663994,
+              50.883279129017914
+            ],
+            [
+              20.601258257296372,
+              50.883287256823316
+            ],
+            [
+              20.60123346318813,
+              50.88319622519303
+            ],
+            [
+              20.60118992321012,
+              50.88320116290647
+            ],
+            [
+              20.601214571391104,
+              50.88329185193442
+            ],
+            [
+              20.601241272235733,
+              50.883288813524246
+            ],
+            [
+              20.601257754896256,
+              50.88334952194501
+            ],
+            [
+              20.601347570959653,
+              50.88333975382243
+            ],
+            [
+              20.601418432123015,
+              50.883604306357256
+            ],
+            [
+              20.60165291289207,
+              50.88357987644268
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S 7 - 6 km   ",
+        "bocz": "Nie",
+        "budowa": "2001  ",
+        "cena": "1 600 000 ",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "23.11.2015   ",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_m_woj": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "1100",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "w\u0142asnosc",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1620370",
+        "has_attachments": null,
+        "has_photos": "01-internet(12).jpg,lot-02-internet(11).jpg,02-internet(10).jpg,03-internet(9).jpg,lot-03-internet(9).jpg,03-internet(10).jpg,01-internet(13).jpg,02-internet(11).jpg,lot-02-internet(12).jpg,01-internet(14).jpg",
+        "kanal": "Tak",
+        "kolejnosc": "7",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2012",
+        "nacisk": "2500  ",
+        "nazwa": "Kielce ul. Kolberga nr ewid. dzia\u0142ki 585 obr\u0119b 09",
+        "ogrz": "Tak",
+        "oid": "568b9892362735750ae2cf57",
+        "osobakontaktowa": "Piotr Cichocki; 48 515 017 015, 41 34 56 509; biuro@dlasklepu.pl",
+        "panorama": null,
+        "pietro": "2",
+        "pow": "1100",
+        "pow_ter": "8 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Kolberga 1100 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "W sk\u0142ad oferty wchodzi: 1 Hala po remoncie w 2012 roku o pow. 1200 m2 wraz z: a) pomieszczeniami biur. \u2013 soch. 200m2; b) hal\u0105 do ekspozycji lub sprzeda\u017cy o pow. 400m2, wys. pomieszcze\u0144 450 cm; c) pomieszczeniami produkcyjno - magazynowymi 600 m2, wys. pomieszcze\u0144 450 cm. 2. Stacja Trafo nowa niezale\u017cna 3. Budynki magazynowe 5 szt. si\u0119 na dzia\u0142ce ( 150 m2 + 2szt x 70 m2 + 3szt x 40m2) do wykorzystania w dowolnym celu 4. Nowa kot\u0142ownia z piecem Defro na w\u0119giel oraz eko-groszek wraz z instalacj\u0105 grzewcz\u0105 w ca\u0142ej hali i w biurach 5. Plac o pow. (nieca\u0142e 5000 m2) z mo\u017cliwo\u015bci\u0105 wybudowania hali lub budynku 6. Nowa instalacja elektryczna, 7. Nowa instalacja elektroniczna (sieci komp. wraz z serwerem i \u0142\u0105czami Orange DSL TP z mo\u017cliwo\u015bci\u0105 doprowadzenia \u015bwiat\u0142owod\u00f3w), 8. Nowa instalacja telefoniczna (telefonia 0 z\u0142) wraz szybkim \u0142\u0105czem internetowym,  9. Wyprowadzona instalacja do monitoringu 10. Nagrzewnice Vulcano w pom. magazynowych sterowane elektr. 5 szt. 11. Nowe pod\u0142o\u017ca (beton wylewki + p\u0142ytki) 11. Nowoczesny wygl\u0105d wyremontowanych pomieszcze\u0144 biurowo-ekspozycyjnych 12. Nowe instalacje Ppo\u017c wraz z hydrantami i doprowadzon\u0105 wod\u0105 13. Nowe meble biurowe \u2013 mo\u017cliwo\u015b\u0107 zmiany i dostosowania do potrzeb pomieszcze\u0144 biurowych wraz z dom\u00f3wieniem wyposa\u017cenia zgodnie z wymogami klienta 14. 4 x WC 15. Brama wjazdowa elektryczna (niezamontowana) 16. Nowe bramy segmentowe wjazdowe h 350 cm szer. 300 cm 17. Inwestycja zabezpieczona ogrodzeniem z portierni\u0105 i str\u00f3\u017cem. ",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "www.e-wyposazenie.pl    ",
+        "wys": "4,5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.577981405975695,
+              50.89386175418941
+            ],
+            [
+              20.577810551327623,
+              50.89387478847622
+            ],
+            [
+              20.57779097093073,
+              50.89373600380637
+            ],
+            [
+              20.577732747143713,
+              50.893738467062924
+            ],
+            [
+              20.57770768333444,
+              50.89357180341499
+            ],
+            [
+              20.578399067182055,
+              50.89352468039773
+            ],
+            [
+              20.578397803067634,
+              50.893528827193215
+            ],
+            [
+              20.57844729649694,
+              50.89383093081744
+            ],
+            [
+              20.577981405975695,
+              50.89386175418941
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa nr S7 \u2013 2 km",
+        "bocz": "Nie",
+        "budowa": "1984",
+        "cena": "15300 PLN +VAT\t",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "940",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621328",
+        "has_attachments": null,
+        "has_photos": "IMG_8593.jpg,DSC_0687.JPG,IMG_8569.jpg,IMG_8596.jpg,DSC_0688.JPG,Skrajna_940_rzut_logo.jpg,IMG_8569(2).jpg,IMG_8593(2).jpg",
+        "kanal": "Tak",
+        "kolejnosc": "14",
+        "lotn": "Krak\u00f3w Balice - 120 km, ",
+        "miasto": "Kielce",
+        "modern": "2010",
+        "nacisk": "3000",
+        "nazwa": "Kielce Skrajna 86B",
+        "ogrz": "Tak",
+        "oid": "57a1ea6a36273502105d4f16",
+        "osobakontaktowa": "Emilia Wojsa 722.22.63.63 emilia.wojsa@eurolocum.pl",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "940",
+        "pow_ter": "7 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Skrajna 940 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Hala dost\u0119pna od stycznia 2016, dotychczas wykorzystywana jako hurtownia chemii gospodarczej. Mo\u017cliwo\u015b\u0107 powi\u0119kszenia hali do 1500 m kw poprzez wykorzystanie dodatkowych pomieszcze\u0144. Hala ogrzewana na olej opa\u0142owy, posiada ramp\u0119 na ca\u0142ej d\u0142ugo\u015bci .Wydzielona cz\u0119\u015b\u0107 socjalna. Brama magazynowa o wymiarach 3 x 3,5 m",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "www.eurolocum.pl",
+        "wys": "5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.61747922502339,
+              50.797893677924414
+            ],
+            [
+              20.617515947763344,
+              50.79865082540933
+            ],
+            [
+              20.617870084942993,
+              50.79864256114787
+            ],
+            [
+              20.61784720344113,
+              50.79836294783623
+            ],
+            [
+              20.617831712495107,
+              50.798105861124995
+            ],
+            [
+              20.617822752021098,
+              50.797942133748094
+            ],
+            [
+              20.617824749215085,
+              50.797942525103046
+            ],
+            [
+              20.617824864936733,
+              50.79794587596167
+            ],
+            [
+              20.6178815585084,
+              50.79794089897364
+            ],
+            [
+              20.617876330962797,
+              50.797827825831426
+            ],
+            [
+              20.617906732729047,
+              50.797827404111906
+            ],
+            [
+              20.617900029634534,
+              50.79767160752112
+            ],
+            [
+              20.61748239497385,
+              50.79767907628049
+            ],
+            [
+              20.617498256717763,
+              50.79767885630792
+            ],
+            [
+              20.61747699203009,
+              50.79767579874493
+            ],
+            [
+              20.61747922502339,
+              50.797893677924414
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 \u2013 5 km",
+        "bocz": "Nie",
+        "budowa": "1980",
+        "cena": "",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_m_woj": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "897",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621627",
+        "has_attachments": null,
+        "has_photos": "IMG_8960.jpg,IMG_8964.jpg,IMG_8970.jpg,IMG_8966.jpg,IMG_8968.jpg,IMG_8965.jpg,IMG_8972.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "18",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2005",
+        "nacisk": "4 000 - 5 000",
+        "nazwa": "Kielce \u015aciegiennego",
+        "ogrz": "Tak",
+        "oid": "57d91a54362735350fc42473",
+        "osobakontaktowa": "Emilia Wojsa\n722-226-363\nemilia.wojsa@eurolocum.pl",
+        "panorama": null,
+        "pietro": "",
+        "pow": "897,5",
+        "pow_ter": "13 000",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce \u015aciegiennego 897 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Pomieszczenia socjalne; dost\u0119p do suwnicy w hali obok",
+        "waciciel": "",
+        "warun": "Wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "4,2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.552722041668307,
+              50.85560968948147
+            ],
+            [
+              20.553322992339403,
+              50.855524585672434
+            ],
+            [
+              20.55328833394556,
+              50.85543788432761
+            ],
+            [
+              20.553259328606032,
+              50.85544162284824
+            ],
+            [
+              20.553226983372074,
+              50.85534483345668
+            ],
+            [
+              20.553234868601958,
+              50.85534305228823
+            ],
+            [
+              20.553217372548204,
+              50.85529467520623
+            ],
+            [
+              20.552703273735464,
+              50.85536353694917
+            ],
+            [
+              20.552720713639435,
+              50.85541023864671
+            ],
+            [
+              20.552733837191365,
+              50.85540671160029
+            ],
+            [
+              20.55277175364531,
+              50.855511808015045
+            ],
+            [
+              20.55268738431849,
+              50.85552298795006
+            ],
+            [
+              20.552722041668307,
+              50.85560968948147
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "",
+        "bocz": "Nie",
+        "budowa": "1973",
+        "cena": "21  Z\u0141 +VAT za m\u00b2",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "800",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wynajem",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1619684",
+        "has_attachments": null,
+        "has_photos": "IMG_8973.jpg,IMG_8975.jpg,IMG_8974.jpg,IMG_8976.jpg,IMG_8987.jpg,IMG_8982.jpg,IMG_8989.jpg,IMG_8985.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "1",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "Brak danych",
+        "nacisk": "Brak danych",
+        "nazwa": "Kielce ul. Druckiego Lubeckiego ",
+        "ogrz": "Tak",
+        "oid": "57d94a1e36273555550fa1ff",
+        "osobakontaktowa": "Emilia Wojsa\n722.22.63.63\nemilia.wojsa@eurolocum.pl",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "800",
+        "pow_ter": "4 090",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Bia\u0142ogon 800 m hala",
+        "sse": "Nie\n",
+        "stan": "S\u0142aby",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "W\u0142a\u015bciciele s\u0105 gotowi wyremontowa\u0107 obiekt dla najemcy: wewn\u0105trz hali stan techniczny jest b.dobry, otoczenie zaniedbane; 3 bramy wjazdowe 3 BRAMY WJAZDOWE",
+        "waciciel": "",
+        "warun": "Na wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.559206607432397,
+              50.817338445225126
+            ],
+            [
+              20.55927200216674,
+              50.81731578030158
+            ],
+            [
+              20.559299231530257,
+              50.817338883369885
+            ],
+            [
+              20.560117787521698,
+              50.81704968674778
+            ],
+            [
+              20.560101137088413,
+              50.817026442386926
+            ],
+            [
+              20.56016371864689,
+              50.81699878592922
+            ],
+            [
+              20.560078715185732,
+              50.81690940703347
+            ],
+            [
+              20.56001585453661,
+              50.81692868609142
+            ],
+            [
+              20.55999385880152,
+              50.8169038369817
+            ],
+            [
+              20.55917524875355,
+              50.81719135725392
+            ],
+            [
+              20.559200112209293,
+              50.81722287305404
+            ],
+            [
+              20.559129539562395,
+              50.817248959578485
+            ],
+            [
+              20.559206607432397,
+              50.817338445225126
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga ekspresowa S7 \u2013 6 km",
+        "bocz": "Tak",
+        "budowa": "1980",
+        "cena": "",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "19.09.2016",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_m_woj": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "1401",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wynajem",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621750",
+        "has_attachments": null,
+        "has_photos": "IMG_8881(2).jpg,IMG_8913(2).jpg,IMG_8884(2).jpg,IMG_8896(2).jpg,IMG_8898(2).jpg,rzut_2_logo.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "22",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, ",
+        "miasto": "Kielce",
+        "modern": "2010",
+        "nacisk": "Brak danych",
+        "nazwa": "Kielce ul. Trzuskawicka 16 ",
+        "ogrz": "Tak",
+        "oid": "57ebb71136273544864c040e",
+        "osobakontaktowa": "Zygmunt Lesisz\ntel. 601 534 206",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "1 401 ",
+        "pow_ter": "52 210",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Trzuskawicka 1401 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Tak",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Bocznica na s\u0105siedniej nieruchomo\u015bci; w\u0142a\u015bciciel otwarty na propozycje wsp\u00f3\u0142pracy",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c; wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "8,0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.55900603816475,
+              50.817439190886915
+            ],
+            [
+              20.558539072220057,
+              50.816924127193616
+            ],
+            [
+              20.558763285029872,
+              50.8168373674199
+            ],
+            [
+              20.55922214770317,
+              50.81736096653843
+            ],
+            [
+              20.55921438068536,
+              50.81736609900653
+            ],
+            [
+              20.55900603816475,
+              50.817439190886915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga ekspresowa S7 \u2013 6 km",
+        "bocz": "Tak",
+        "budowa": "1980",
+        "cena": "",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "16.09.2016",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "1247",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wynajem",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621750",
+        "has_attachments": null,
+        "has_photos": "IMG_8881(3).jpg,IMG_8890(3).jpg,IMG_8896(3).jpg,IMG_8898(3).jpg,IMG_8913(3).jpg,rzut_1_logo.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "21",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2010",
+        "nacisk": "Brak danych",
+        "nazwa": "Kielce ul. Trzuskawicka 16 ",
+        "ogrz": "Tak",
+        "oid": "57ebbf4236273548027c6b8c",
+        "osobakontaktowa": "Zygmunt Lesisz 601 534 206 ",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "1 247",
+        "pow_ter": "52 210",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Trzuskawicka 1247 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Tak",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Bocznica na s\u0105siedniej nieruchomo\u015bci; w\u0142a\u015bciciel otwarty na propozycje wsp\u00f3\u0142pracy",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c; wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "8,0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.56019232147661,
+              50.81702289691849
+            ],
+            [
+              20.560414559638584,
+              50.81694281832886
+            ],
+            [
+              20.55994961404074,
+              50.81640929477723
+            ],
+            [
+              20.5597301339771,
+              50.816492688052435
+            ],
+            [
+              20.56019232147661,
+              50.81702289691849
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga ekspresowa S7 \u2013 6 km",
+        "bocz": "Tak",
+        "budowa": "1980",
+        "cena": "",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "19.06.2016",
+        "email": "",
+        "filtr_droga": 0,
+        "filtr_m_woj": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "1244",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wynajem",
+        "gaz": "Nie",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=1621750",
+        "has_attachments": null,
+        "has_photos": "IMG_8890(4).jpg,IMG_8893(4).jpg,IMG_8896(4).jpg,IMG_8898(4).jpg,IMG_8913(4).jpg,rzut_3_logo.jpg",
+        "kanal": "Tak",
+        "kolejnosc": "20",
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "2010",
+        "nacisk": "Brak danych",
+        "nazwa": "Kielce ul. Trzuskawicka 16",
+        "ogrz": "Tak",
+        "oid": "57ecc43d36273563db6cc811",
+        "osobakontaktowa": "Zygmunt Lesisz 601 534 206 ",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "1 244",
+        "pow_ter": "52 210",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Trzuskawicka 1244 m hala",
+        "sse": "Nie\n",
+        "stan": "Dobry",
+        "suwnica": "Tak",
+        "tech": "Nie",
+        "telefon": "",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Bocznica na s\u0105siedniej nieruchomo\u015bci; w\u0142a\u015bciciel otwarty na propozycje wsp\u00f3\u0142pracy",
+        "waciciel": "",
+        "warun": "Na sprzeda\u017c; wynajem",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "8,0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.632578697636138,
+              50.90216195143212
+            ],
+            [
+              20.63291629990271,
+              50.902189076889776
+            ],
+            [
+              20.63299278363652,
+              50.9017991268995
+            ],
+            [
+              20.63265800947301,
+              50.90177699073682
+            ],
+            [
+              20.632578697636138,
+              50.90216195143212
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 \u2013 4,5 km",
+        "bocz": "Tak",
+        "budowa": "1975",
+        "cena": "10 000 net",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "14.02.2018",
+        "email": "slesisz@progresseco.pl",
+        "filtr_droga": "4,5",
+        "filtr_park": "N",
+        "filtr_pow_m2": "612",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wieczyste",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=10945470",
+        "has_attachments": null,
+        "has_photos": "Hala_1e.jpg,Hala_1_b.jpg,hale_zagnanska(3).png,Hala_1c.jpg,Hala_1d.jpg,Hala_1e(2).jpg,Hala_1f.jpg",
+        "kanal": "Tak",
+        "kolejnosc": 0,
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "",
+        "nacisk": "",
+        "nazwa": "Kielce Zagna\u0144ska 141",
+        "ogrz": "Nie",
+        "oid": "5a85794c3627351b7ee66152",
+        "osobakontaktowa": "Przemys\u0142aw Szczecina ",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "612",
+        "pow_ter": "",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Zagna\u0144ska 612 m hala",
+        "sse": "Nie\n",
+        "stan": "\u015aredni",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "500 339 459",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Hala do wynaj\u0119cia z ramp\u0105 roz\u0142adunkow\u0105. Na terenie nieruchomo\u015bci dost\u0119pna woda, gaz, kanalizacja sanitarna oraz deszczowa. Teren ogrodzony, ochraniany.",
+        "waciciel": "Progresseco",
+        "warun": "U\u017cytkowanie wieczyste",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              20.632377412462137,
+              50.90211044852729
+            ],
+            [
+              20.632544742043457,
+              50.90211984173334
+            ],
+            [
+              20.632599786174342,
+              50.90179891635415
+            ],
+            [
+              20.63242692434865,
+              50.901782895776456
+            ],
+            [
+              20.632377412462137,
+              50.90211044852729
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "autos": "Droga krajowa S7 \u2013 4,5 km",
+        "bocz": "Tak",
+        "budowa": "1975",
+        "cena": "5 800 netto",
+        "ciez": "Tak",
+        "danekontaktowe": "Baza Ofert Inwestycyjnych Urz\u0119du Miasta Kielce, ul. Strycharska 6, 25-659 Kielce, +48 41 36 76 571 / +48 41 36 76 552, e-mail coi@um.kielce.pl, www.invest.kielce.pl",
+        "data": "14.02.2018",
+        "email": "slesisz@progresseco.pl",
+        "filtr_droga": 0,
+        "filtr_park": "N",
+        "filtr_pow_m2": "365",
+        "filtr_sse": "N",
+        "filtr_wlasnosc": "wlasnosc:wieczyste",
+        "gaz": "Tak",
+        "geoportal_link": "http://www.gis.kielce.eu/?permalink=10945470",
+        "has_attachments": null,
+        "has_photos": "Hala_2_d.jpg,Hala_2a.jpg,Hala_2b.jpg,hale_zagnanska.png,Hala_2_d(2).jpg,hale_zagnanska(2).png,Hala_2a(2).jpg",
+        "kanal": "Tak",
+        "kolejnosc": 0,
+        "lotn": "Krak\u00f3w Balice - 120 km, Warszawa Ok\u0119cie - 180 km, planowane lotnisko w Obicach - 40 km",
+        "miasto": "Kielce",
+        "modern": "",
+        "nacisk": "",
+        "nazwa": "Kielce ul. Zagna\u0144ska 141",
+        "ogrz": "Nie",
+        "oid": "5a8585223627352a655b3d0b",
+        "osobakontaktowa": "Przemys\u0142aw Szczecina",
+        "panorama": null,
+        "pietro": "1",
+        "pow": "365",
+        "pow_ter": "",
+        "prad": "Tak",
+        "public": true,
+        "short_name": "Kielce Zagna\u0144ska 365 m hala",
+        "sse": "Nie\n",
+        "stan": "",
+        "suwnica": "Nie",
+        "tech": "Nie",
+        "telefon": "500 339 459",
+        "type": "547b76653627353e6505ee3e",
+        "ulica": "",
+        "uwagi": "Hala do wynaj\u0119cia z ramp\u0105 roz\u0142adunkow\u0105. Na terenie nieruchomo\u015bci dost\u0119pna woda, gaz, kanalizacja sanitarna oraz deszczowa. Teren ogrodzony, ochraniany.",
+        "waciciel": "Sa5 Sp. z o.o. sp. k. ",
+        "warun": "U\u017cytkowanie wieczyste",
+        "woda": "Tak",
+        "woj": "Kielce \u2013 0 km",
+        "wojew": "\u015awi\u0119tokrzyskie",
+        "www": "",
+        "wys": "4"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
