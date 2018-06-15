@@ -119,7 +119,7 @@ class Offer(models.Model):
     address = models.CharField(max_length=50)
     post_code = models.CharField(max_length=50)
     # pricing
-    price = models.DecimalField(decimal_places=2)
+    price = models.DecimalField(decimal_places=2, max_digits=10000000000)
     # media
     electricity = models.BooleanField()
     gas = models.BooleanField()
