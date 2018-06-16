@@ -1,10 +1,8 @@
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import render, redirect
-from django.http import HttpResponse, HttpResponseRedirect
-from django.template import loader
-from .forms import OfferForm
-from .models import Offer
+from django.http import HttpResponseRedirect
+from .forms import OfferForm, PricesForm
 
 
 def index(request):
@@ -21,7 +19,8 @@ def index(request):
     # if a GET (or any other method) we'll create a blank form
     else:
         form = OfferForm()
-    return render(request, 'dodawarka/index.html', {'form': form})
+        pform = PricesForm()
+    return render(request, 'dodawarka/index.html', {'form': form, "pform": pform})
 
 def signup(request):
     if request.method == 'POST':

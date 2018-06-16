@@ -111,45 +111,46 @@ def enemies(cord_x, cord_y, typ, radius):
 
 class Offer(models.Model):
     """Oferta - działka/lokal inwestycyjny"""
-    title = models.CharField(max_length=50)
+    title = models.CharField(verbose_name="Tytuł", max_length=50)
     owner = models.ForeignKey(User,
+                              verbose_name="Użytkownik",
                               on_delete=models.CASCADE,
                               related_name='offers',
                               blank=True,
                               null=True)
     # placement
-    coordinates = models.TextField()
-    city = models.CharField(max_length=50)
-    address = models.CharField(max_length=50)
-    post_code = models.CharField(max_length=50)
+    coordinates = models.CharField(verbose_name="Koordynaty",max_length=350)
+    city = models.CharField(verbose_name="Miasto", max_length=50)
+    address = models.CharField(verbose_name="Adres", max_length=50)
+    post_code = models.CharField(verbose_name="Kod pocztowy", max_length=50)
     # pricing
-    price = models.DecimalField(decimal_places=2, max_digits=20)
+    price = models.DecimalField(verbose_name="Cena",decimal_places=2, max_digits=20)
     # media
-    electricity = models.BooleanField(default=False)
-    gas = models.BooleanField(default=False)
-    water = models.BooleanField(default=False)
-    heating = models.BooleanField(default=False)
-    parking = models.BooleanField(default=False)
-    gastronomy = models.BooleanField(default=False)
+    electricity = models.BooleanField(verbose_name="Prąd",default=False)
+    gas = models.BooleanField(verbose_name="Gaz",default=False)
+    water = models.BooleanField(verbose_name="Woda",default=False)
+    heating = models.BooleanField(verbose_name="Ogrzewanie",default=False)
+    parking = models.BooleanField(verbose_name="Parking",default=False)
+    gastronomy = models.BooleanField(verbose_name="Odpowiednie dla gastronomii",default=False,)
     #
-    for_sell = models.BooleanField(default=False)
-    for_rent = models.BooleanField(default=False)
+    for_sell = models.BooleanField(verbose_name="Na sprzedaż",default=False)
+    for_rent = models.BooleanField(verbose_name="Na wynajem",default=False)
     # type
-    type = models.CharField(max_length=100,
+    type = models.CharField(verbose_name="Typ",max_length=100,
                             choices=(
                                     ('LOCAL', "Lokal"),
                                     ('PLOT', "Działka"),
                                     ),)
-    disabled_people_friendly = models.BooleanField(default=False)
-    surface = models.DecimalField(max_digits=20, decimal_places=2)
-    centre_distance = models.IntegerField()
-    seller = models.CharField(max_length=100,
+    disabled_people_friendly = models.BooleanField(verbose_name="Odpowiednie dla osób niepełnosprawnych",default=False)
+    surface = models.DecimalField(verbose_name="Powierzchnia",max_digits=20, decimal_places=2)
+    centre_distance = models.IntegerField(verbose_name="Odległość od centrum",)
+    seller = models.CharField(verbose_name="Sprzedawca",max_length=100,
                             choices=(
                                     ('BUSINESS', "Firma"),
                                     ('PRIVATE', "Osoba prywatna"),
                                     ),)
-    rooms = models.IntegerField(null=True, blank=True)
-    inactive = models.BooleanField(default=False)
+    rooms = models.IntegerField(verbose_name="Ilość pomieszczeń",null=True, blank=True)
+    inactive = models.BooleanField(verbose_name="Aktywność",default=False)
 
     def __str__(self):
         return self.title
