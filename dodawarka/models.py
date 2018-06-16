@@ -194,11 +194,11 @@ class Offer(models.Model):
                         percentage += surface / offer.surface
                         filter_count += 1
                 if rooms:
-                    if room > offer.room:
-                        percentage += offer.room / room
+                    if rooms > offer.room:
+                        percentage += offer.room / rooms
                         filter_count += 1
                     else:
-                        percentage += room / offer.room
+                        percentage += rooms / offer.room
                         filter_count += 1
                 if seller:
                     if seller == offer.seller:
