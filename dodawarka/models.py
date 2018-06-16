@@ -101,7 +101,10 @@ def enemies(cord_x, cord_y, typ, radius):
             slow['rating'] = enemy['rating']
         except KeyError:
             pass
-        slow['vicinity'] = enemy['vicinity']
+        try:
+            slow['vicinity'] = enemy['vicinity']
+        except KeyError:
+            pass
         data.append(slow)
 
     return data
@@ -194,11 +197,11 @@ class Offer(models.Model):
                         percentage += surface / offer.surface
                         filter_count += 1
                 if rooms:
-                    if room > offer.room:
-                        percentage += offer.room / room
+                    if room > offer.rooms:
+                        percentage += offer.rooms / rooms
                         filter_count += 1
                     else:
-                        percentage += room / offer.room
+                        percentage += rooms / offer.rooms
                         filter_count += 1
                 if seller:
                     if seller == offer.seller:
