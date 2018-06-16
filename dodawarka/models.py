@@ -267,4 +267,4 @@ class Offer(models.Model):
                     x = result['offer'].coordinates.split(",")[0]
                     y = result['offer'].coordinates.split(",")[1]
                     result['enemies'] = sorted(enemies(float(x), float(y), enemy_typ, enemy_radius), key=lambda x: x['distance'])
-            return results
+            return sorted(results, key=lambda x: x['percentage'], reverse=True)
