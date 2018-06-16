@@ -1,0 +1,20 @@
+{% load static %}
+{% load material_form %}
+
+<html>
+    <head>
+        <title>Inplacement</title>
+        {% include 'material/includes/material_css.html' %}
+        <script src="{% static 'material/js/jquery.js' %}"></script>
+        {% include 'material/includes/material_js.html' %}
+        <link href='https://fonts.googleapis.com/css?family=Roboto&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="{% static 'dodawarka/style.css' %}">
+    </head>
+    <body>
+        <div class="container">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </body>
+</html>
+

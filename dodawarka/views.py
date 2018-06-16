@@ -1,19 +1,27 @@
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
-
+from .forms import OfferForm
 from .models import Offer
 
 
 def index(request):
-    offers = Offer.objects.all()
-    template = loader.get_template('dodawarka/index.html')
-    context = {
-        'offers': offers,
-    }
-    return HttpResponse(template.render(context, request))
+    # if this is a POST request we need to process the form data
+    if request.method == 'POST':
+        # create a form instance and populate it with data from the request:
+        form = OfferForm(request.POST)
+        # check whether it's valid:
+        if form.is_valid():
+            # process the data in form.cleaned_data as required
+            # ...
+            # redirect to a new URL:
+            return HttpResponseRedirect('/offers/')
+    # if a GET (or any other method) we'll create a blank form
+    else:
+        form = OfferForm()
+    return render(request, 'dodawarka/index.html', {'form': form})
 
 def signup(request):
     if request.method == 'POST':
@@ -25,6 +33,6 @@ def signup(request):
             user = authenticate(username=username, password=raw_password)
             login(request, user)
             return redirect('home')
-    else:
-        form = UserCreationForm()
-    return render(request, 'signup.html', {'form': form})
+    # else:
+    #     form = UserCreationForm()
+    # return render(request, 'signup.html', {'form': form})
