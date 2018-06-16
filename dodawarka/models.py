@@ -147,11 +147,6 @@ class Offer(models.Model):
                                     ),)
     rooms = models.IntegerField(null=True, blank=True)
     inactive = models.BooleanField(default=False)
-    # do porównywarki
-    compare_user = models.ManyToManyField(User,
-                                          related_name="to_compare",
-                                          null=True,
-                                          blank=True)
 
     def __str__(self):
         return self.title
