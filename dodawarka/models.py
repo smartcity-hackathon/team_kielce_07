@@ -129,7 +129,7 @@ class Offer(models.Model):
     address = models.CharField(verbose_name="Adres", max_length=50)
     post_code = models.CharField(verbose_name="Kod pocztowy", max_length=50)
     # pricing
-    price = models.DecimalField(verbose_name="Cena", decimal_places=2, max_digits=20)
+    price = models.DecimalField(verbose_name="Cena (zł)", decimal_places=2, max_digits=20)
     # media
     electricity = models.BooleanField(verbose_name="Prąd", default=False)
     gas = models.BooleanField(verbose_name="Gaz", default=False)
@@ -147,8 +147,8 @@ class Offer(models.Model):
                                 ('PLOT', "Działka"),
                             ), )
     disabled_people_friendly = models.BooleanField(verbose_name="Odpowiednie dla osób niepełnosprawnych", default=False)
-    surface = models.DecimalField(verbose_name="Powierzchnia", max_digits=20, decimal_places=2)
-    centre_distance = models.IntegerField(verbose_name="Odległość od centrum", )
+    surface = models.DecimalField(verbose_name="Powierzchnia (m2)", max_digits=20, decimal_places=2)
+    centre_distance = models.IntegerField(verbose_name="Odległość od centrum (m)", )
     seller = models.CharField(verbose_name="Sprzedawca", max_length=100,
                               choices=(
                                   ('BUSINESS', "Firma"),

@@ -58,10 +58,10 @@ BUSINESSTYPE = (
 
 
 class OfferForm(forms.ModelForm):
-    pricemin = forms.DecimalField(label="Cena minimalna")
-    pricemax = forms.DecimalField(label="Cena maksymalna")
-    enemy_typ = forms.ChoiceField(label="Wybierz konkurencję do sprawdzenia", choices=BUSINESSTYPE)
-    enemy_radius = forms.IntegerField(label="Promień sprawdzania konkurencji")
+    pricemin = forms.DecimalField(label="Cena minimalna (zł)")
+    pricemax = forms.DecimalField(label="Cena maksymalna (zł)")
+    enemy_typ = forms.ChoiceField(label="Wybierz branżę do sprawdzenia", choices=BUSINESSTYPE)
+    enemy_radius = forms.IntegerField(label="Promień sprawdzania obiektów (m)")
 
     def __init__(self, *args, **kwargs):
         # first call parent's constructor
