@@ -268,3 +268,8 @@ class Offer(models.Model):
                     y = result['offer'].coordinates.split(",")[1]
                     result['enemies'] = sorted(enemies(float(x), float(y), enemy_typ, enemy_radius), key=lambda x: x['distance'])
             return sorted(results, key=lambda x: x['percentage'], reverse=True)
+
+class Profile(models.Model):
+    """Profil użytkownika."""
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    offers_to_compare = models.ManyToManyField(Offer)
