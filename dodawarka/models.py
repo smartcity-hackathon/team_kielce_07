@@ -116,6 +116,7 @@ class Offer(models.Model):
                               null=True)
     # placement
     coordinates = models.TextField()
+    city = models.CharField(max_length=50)
     address = models.CharField(max_length=50)
     post_code = models.CharField(max_length=50)
     # pricing
@@ -126,93 +127,144 @@ class Offer(models.Model):
     water = models.BooleanField(default=False)
     heating = models.BooleanField(default=False)
     parking = models.BooleanField(default=False)
+    gastronomy = models.BooleanField(default=False)
     #
     for_sell = models.BooleanField(default=False)
     for_rent = models.BooleanField(default=False)
     # type
     type = models.CharField(max_length=100,
                             choices=(
-                                ('PARCEL', "Parcel"),
-                                ('PLACE', "Place"),
-                                ('GARAGE', "Garage"),
-                                ('GASTRONOMY', "Gastronomy"),
-                            ), )
+                                    ('LOCAL', "Lokal"),
+                                    ('PLOT', "Działka"),
+                                    ),)
     disabled_people_friendly = models.BooleanField(default=False)
-    surface = models.IntegerField()
+    surface = models.DecimalField(max_digits=20, decimal_places=2)
     centre_distance = models.IntegerField()
-    seller = models.CharField(max_length=50)
-    rooms = models.IntegerField()
+    seller = models.CharField(max_length=100,
+                            choices=(
+                                    ('BUSINESS', "Firma"),
+                                    ('PRIVATE', "Osoba prywatna"),
+                                    ),)
+    rooms = models.IntegerField(null=True, blank=True)
     inactive = models.BooleanField(default=False)
 
     def __str__(self):
         return self.title
 
-    def search(title='', owner=None, coordinates=None, address=None,
-                   post_code=None, electricity=None, gas=None,
-                   water=None, heating=None, for_sell=None, for_rent=None,
-                   type=None, disabled_people_friendly=None, surface=None,
-                   centre_distance=None, seller=None, rooms=None,
-                   pricemin=None, pricemax=None, inactive=False,
-                   enemy_typ=None, enemy_radius=None):
+    def search(title='', city=None, address=None,
+               post_code=None, electricity=None, gas=None,
+               water=None, heating=None, for_sell=None, for_rent=None,
+               type=None, disabled_people_friendly=None, surface=None,
+               centre_distance=None, seller=None, rooms=None, pricemin=None,
+               pricemax=None, inactive=False, parking=None, enemy_typ=None,
+               enemy_radius=None):
             """
             Wyszukiwarka.
             """
+
             qs = Offer.objects.all()
             if title:
                 qs = qs.filter(title__icontains=title)
-            if owner:
-                qs = qs.filter(owner=owner)
             if pricemin:
                 qs = qs.filter(price__gte=pricemin)
             if pricemax:
                 qs = qs.filter(price__lte=pricemax)
             if address:
                 qs = qs.filter(address__icontains=address)
-            if coordinates:
-                qs = qs.filter(coordinates=coordinates)
+            if city:
+                qs = qs.filter(city__icontains=city)
             if post_code:
                 qs = qs.filter(post_code=post_code)
-            if electricity:
-                qs = qs.filter(electricity=True)
-            elif electricity == False:
-                qs = qs.filter(electricity=False)
-            if gas:
-                qs = qs.filter(gas=True)
-            elif gas == False:
-                qs = qs.filter(gas=False)
-            if water:
-                qs = qs.filter(water=True)
-            elif water == False:
-                qs = qs.filter(water=False)
-            if heating:
-                qs = qs.filter(heating=True)
-            elif heating == False:
-                qs = qs.filter(heating=False)
-            if for_sell:
-                qs = qs.filter(for_sell=True)
-            elif for_sell == False:
-                qs = qs.filter(for_sell=False)
-            if for_rent:
-                qs = qs.filter(for_rent=True)
-            elif for_rent == False:
-                qs = qs.filter(for_rent=False)
-            if disabled_people_friendly:
-                qs = qs.filter(disabled_people_friendly=True)
-            elif disabled_people_friendly == False:
-                qs = qs.filter(disabled_people_friendly=False)
+            if centre_distance:
+                qs = qs.filter(centre_distance__lte=centre_distance)
+                qs = qs.filter(centre_distance__gte=centre_distance)
             if inactive:
-                qs = qs.filter(active=False)
-
-            qs = list(qs)
+                qs = qs.filter(inactive=True)
+        ### PĘTLA DLA ODSIANYCH
+            # qs = list(qs)
             results = []
+            for offer in qs:
+                percentage = 0
+                filter_count = 0
+                if surface:
+                    if surface > offer.surface:
+                        percentage += offer.surface / surface
+                        filter_count += 1
+                    else:
+                        percentage += surface / offer.surface
+                        filter_count += 1
+                if rooms:
+                    if room > offer.room:
+                        percentage += offer.room / room
+                        filter_count += 1
+                    else:
+                        percentage += room / offer.room
+                        filter_count += 1
+                if seller:
+                    if seller == offer.seller:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if electricity:
+                    if electricity == offer.electricity:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if gas:
+                    if gas == offer.gas:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if water:
+                    if water == offer.water:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if heating:
+                    if heating == offer.heating:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if for_sell:
+                    if for_sell == offer.for_sell:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if for_rent:
+                    if for_rent == offer.for_rent:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if parking:
+                    if parking == offer.parking:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if disabled_people_friendly:
+                    if disabled_people_friendly == offer.disabled_people_friendly:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+
+                temp_dict = {}
+                temp_dict['offer'] = offer
+                if filter_count != 0:
+                    percentage = percentage / filter_count
+                    temp_dict['percentage'] = str(percentage * 100).split(".")[0] + "%"
+                results.append(temp_dict)
+
             if enemy_typ is not None:
-                for result in qs:
-                    temp_list = []
-                    x = result.coordinates.split(",")[0]
-                    y = result.coordinates.split(",")[1]
-                    temp_list.append(result)
-                    temp_list.append(sorted(enemies(float(x), float(y), enemy_typ, enemy_radius), key=lambda x: x['distance']))
-                    results.append(temp_list)
-                return results
-            else:
-                return qs
+                for result in results:
+                    x = result['offer'].coordinates.split(",")[0]
+                    y = result['offer'].coordinates.split(",")[1]
+                    result['enemies'] = sorted(enemies(float(x), float(y), enemy_typ, enemy_radius), key=lambda x: x['distance'])
+            return results
