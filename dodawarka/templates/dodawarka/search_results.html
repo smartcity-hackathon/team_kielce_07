@@ -2,13 +2,39 @@
 {% load static %}
 
 {% block content %}
-{% if offers %}
-<ul>
-    {% for offer in offers %}
-    <li><a href="/offers/{{ offer.id }}/">{{ offer.title }}</a></li>
-    {% endfor %}
-</ul>
-{% else %}
-<p>Nie ma żadnych ofert do wyświetlenia.</p>
-{% endif %}
+    {% if result %}
+        {% for r in result %}
+            <ul class="collection">
+                <li class="collection-item"><span class="bold">Nazwa:</span> {{ r.offer }}</li>
+                {% if r.percentage %}
+                    <li class="collection-item"><span class="bold">Procent dopasowania:</span> {{ r.percentage }}</li>
+                {% endif %}
+                <table class="highlight responsive-table">
+                    <thead>
+                    <tr>
+                        <td colspan="4"><h5>Konkurencja</h5></td>
+                    </thead>
+                    <tr>
+                        <td><span class="bold">Nazwa</span></td>
+                        <td><span class="bold">Odległość</span></td>
+                        <td><span class="bold">Ocena</span></td>
+                        <td><span class="bold">Adres</span></td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for d in r.enemies %}
+                        <tr>
+                            <td>{{ d.name }}</td>
+                            <td>{{ d.distance }}</td>
+                            <td>{{ d.rating }}</td>
+                            <td>{{ d.vicinity }}</td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </ul>
+        {% endfor %}
+    {% else %}
+        <p>Nie ma żadnych ofert do wyświetlenia.</p>
+    {% endif %}
 {% endblock %}

@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.conf import settings
+from decimal import *
 
 import requests
 from math import sin, cos, sqrt, atan2, radians
@@ -157,7 +158,7 @@ class Offer(models.Model):
 
     def search(title='', city=None, address=None,
                post_code=None, electricity=None, gas=None,
-               water=None, heating=None, for_sell=None, for_rent=None,
+               water=None, gastronomy=None, heating=None, for_sell=None, for_rent=None,
                type=None, disabled_people_friendly=None, surface=None,
                centre_distance=None, seller=None, rooms=None, pricemin=None,
                pricemax=None, inactive=False, parking=None, enemy_typ=None,
@@ -198,11 +199,11 @@ class Offer(models.Model):
                         percentage += surface / offer.surface
                         filter_count += 1
                 if rooms:
-                    if room > offer.rooms:
+                    if rooms > offer.rooms:
                         percentage += offer.rooms / rooms
                         filter_count += 1
                     else:
-                        percentage += rooms / offer.rooms
+                        percentage += Decimal(rooms) / Decimal(offer.rooms)
                         filter_count += 1
                 if seller:
                     if seller == offer.seller:
@@ -242,6 +243,12 @@ class Offer(models.Model):
                         filter_count += 1
                 if for_rent:
                     if for_rent == offer.for_rent:
+                        percentage += 1
+                        filter_count += 1
+                    else:
+                        filter_count += 1
+                if gastronomy:
+                    if gastronomy == offer.gastronomy:
                         percentage += 1
                         filter_count += 1
                     else:

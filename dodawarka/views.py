@@ -1,8 +1,9 @@
-from django.contrib.auth import login, authenticate
+from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import UserCreationForm
-from django.shortcuts import render, redirect
-from django.http import HttpResponseRedirect
-from .forms import OfferForm, PricesForm
+from django.shortcuts import redirect, render
+
+from .forms import OfferForm
+from .models import Offer
 
 
 def index(request):
@@ -15,12 +16,33 @@ def index(request):
             # process the data in form.cleaned_data as required
             # ...
             # redirect to a new URL:
-            return HttpResponseRedirect('/offers/')
+            # form.save()
+            result = Offer.search(city=form.cleaned_data.get('city'),
+                                  electricity=form.cleaned_data.get('electricity'),
+                                  gas=form.cleaned_data.get('gas'),
+                                  water=form.cleaned_data.get('water'),
+                                  heating=form.cleaned_data.get('heating'),
+                                  parking=form.cleaned_data.get('parking'),
+                                  gastronomy=form.cleaned_data.get('gastronomy'),
+                                  for_sell=form.cleaned_data.get('for_sell'),
+                                  for_rent=form.cleaned_data.get('for_rent'),
+                                  type=form.cleaned_data.get('type'),
+                                  disabled_people_friendly=form.cleaned_data.get('disabled_people_friendly'),
+                                  surface=form.cleaned_data.get('surface'),
+                                  centre_distance=form.cleaned_data.get('centre_distance'),
+                                  seller=form.cleaned_data.get('seller'),
+                                  rooms=form.cleaned_data.get('rooms'),
+                                  enemy_typ=form.cleaned_data.get('enemy_typ'),
+                                  enemy_radius=form.cleaned_data.get('enemy_radius'),
+                                  pricemin=form.cleaned_data.get('pricemin'),
+                                  pricemax=form.cleaned_data.get('pricemax'),
+                                  )
+            return render(request, 'dodawarka/search_results.html', {'result': result, })
     # if a GET (or any other method) we'll create a blank form
     else:
         form = OfferForm()
-        pform = PricesForm()
-    return render(request, 'dodawarka/index.html', {'form': form, "pform": pform})
+    return render(request, 'dodawarka/index.html', {'form': form})
+
 
 def signup(request):
     if request.method == 'POST':

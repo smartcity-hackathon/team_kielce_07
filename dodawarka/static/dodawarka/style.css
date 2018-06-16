@@ -1,6 +1,24 @@
+html {
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+}
+
 input[type='checkbox'] {
     opacity: 1 !important;
-}
-* {
     pointer-events: auto !important;
+    position: relative;
+    margin: 3px 0 0 10px;
 }
+
+.enemy {
+    margin-left: 20px;
+}
+
+h5 {
+    font-weight: 700;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}
+

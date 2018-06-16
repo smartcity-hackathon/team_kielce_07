@@ -1,11 +1,10 @@
 {% extends 'dodawarka/base.html' %}
 {% load static %}
-
 {% block content %}
- <form method="POST" action="">
-    {% csrf_token %}
-    {{ pform.as_p }}
-     <br/>
-    <input type="submit" value="Szukaj" class="btn btn-primary btn-lg"/>
- </form>
+    <form method="POST" action="">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <br/>
+        <input type="submit" value="Szukaj" class="btn btn-primary btn-lg"/>
+    </form>
 {% endblock %}

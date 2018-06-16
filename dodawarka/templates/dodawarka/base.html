@@ -2,19 +2,21 @@
 {% load material_form %}
 
 <html>
-    <head>
-        <title>Inplacement</title>
-        {% include 'material/includes/material_css.html' %}
-        <script src="{% static 'material/js/jquery.js' %}"></script>
-        {% include 'material/includes/material_js.html' %}
-        <link href='https://fonts.googleapis.com/css?family=Roboto&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="{% static 'dodawarka/style.css' %}">
-    </head>
-    <body>
-        <div class="container">
-            {% block content %}
-            {% endblock %}
-        </div>
-    </body>
+<head>
+    <title>Inplacement</title>
+    {% include 'material/includes/material_css.html' %}
+    <script src="{% static 'material/js/jquery.js' %}"></script>
+    {% include 'material/includes/material_js.html' %}
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,latin-ext' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{% static 'dodawarka/style.css' %}">
+</head>
+<body>
+<div class="container">
+    <img src="{% static 'dodawarka/inplacement.png' %}">
+    {% block content %}
+    {% endblock %}
+</div>
+</body>
 </html>
 
