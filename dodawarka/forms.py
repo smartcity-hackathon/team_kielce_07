@@ -64,9 +64,7 @@ class OfferForm(forms.ModelForm):
     enemy_radius = forms.IntegerField(label="Promień sprawdzania obiektów (m)")
 
     def __init__(self, *args, **kwargs):
-        # first call parent's constructor
         super(OfferForm, self).__init__(*args, **kwargs)
-        # there's a `fields` property now
         self.fields['electricity'].required = False
         self.fields['gas'].required = False
         self.fields['water'].required = False
@@ -91,23 +89,3 @@ class OfferForm(forms.ModelForm):
         fields = (
             "city", "electricity", "gas", "water", "heating", "parking", "gastronomy", "for_sell", "for_rent", "type",
             "disabled_people_friendly", "surface", "centre_distance", "seller", "rooms",)
-
-#
-# class PricesForm(OfferForm):
-#
-#     def __init__(self, *args, **kwargs):
-#         # first call parent's constructor
-#         super(PricesForm, self).__init__(*args, **kwargs)
-#         # there's a `fields` property now
-#         self.fields['pricemin'].required = False
-#         self.fields['pricemax'].required = False
-#         self.fields['enemy_typ'].required = False
-#         self.fields['enemy_radius'].required = False
-#
-#     pricemin = forms.DecimalField(label="Cena minimalna")
-#     pricemax = forms.DecimalField(label="Cena maksymalna")
-#     enemy_typ = forms.ChoiceField(label="Wybierz konkurencję do sprawdzenia", choices=BUSINESSTYPE)
-#     enemy_radius = forms.IntegerField(label="Promień sprawdzania konkurencji")
-#
-#     class Meta(OfferForm.Meta):
-#         fields = OfferForm.Meta.fields + ('pricemin', "pricemax")
