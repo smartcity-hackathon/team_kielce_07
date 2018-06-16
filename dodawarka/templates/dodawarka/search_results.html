@@ -9,29 +9,35 @@
                 {% if r.percentage %}
                     <li class="collection-item"><span class="bold">Procent dopasowania:</span> {{ r.percentage }}</li>
                 {% endif %}
-                <table class="highlight responsive-table">
-                    <thead>
-                    <tr>
-                        <td colspan="4"><h5>Konkurencja</h5></td>
-                    </thead>
-                    <tr>
-                        <td><span class="bold">Nazwa</span></td>
-                        <td><span class="bold">Odległość</span></td>
-                        <td><span class="bold">Ocena</span></td>
-                        <td><span class="bold">Adres</span></td>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    {% for d in r.enemies %}
+                <li class="collection-item"><span class="bold">Cena:</span> {{ r.offer.price }} zł</li>
+                <li class="collection-item"><span class="bold">Cena:</span> {{ r.offer.surface }} m<sup>2</sup></li>
+                <li class="collection-item"><span class="bold">Adres:</span> {{ r.offer.address }}, {{ r.offer.city }}
+                </li>
+                {% if r.enemies %}
+                    <table class="highlight responsive-table">
+                        <thead>
                         <tr>
-                            <td>{{ d.name }}</td>
-                            <td>{{ d.distance }}</td>
-                            <td>{{ d.rating }}</td>
-                            <td>{{ d.vicinity }}</td>
+                            <td colspan="4"><h5>Punkty w pobliżu</h5></td>
+                        </thead>
+                        <tr>
+                            <td><span class="bold">Nazwa</span></td>
+                            <td><span class="bold">Odległość</span></td>
+                            <td><span class="bold">Ocena</span></td>
+                            <td><span class="bold">Adres</span></td>
                         </tr>
-                    {% endfor %}
-                    </tbody>
-                </table>
+                        </thead>
+                        <tbody>
+                        {% for d in r.enemies %}
+                            <tr>
+                                <td>{{ d.name }}</td>
+                                <td>{{ d.distance }}</td>
+                                <td>{{ d.rating }}</td>
+                                <td>{{ d.vicinity }}</td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                {% endif %}
             </ul>
         {% endfor %}
     {% else %}
